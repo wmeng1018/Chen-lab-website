@@ -6,22 +6,8 @@ title: Home
 
 With over 30 million variants in the human genome, which ones are important? Through the lens of human variation and diseases, we focus on advancing our ability to identify, assess, and predict variants with functional consequences using an interdisciplinary approach.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+The Chen lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+
 {:.center}
 
 {% include section.html full=true %}
