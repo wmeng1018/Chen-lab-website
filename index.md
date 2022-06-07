@@ -19,8 +19,11 @@ The Chen lab uses innovative genetics and genomics, single cell omics, computati
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We pursue these goals in the following areas:
+· Identify genes and mutations underlying human diseases.
+· Systematically predict and assess the function consequence of genetic variants across the genome.
+· Investigate the changes in transcriptome and epigenome during development and under disease condition at single-cell resolution.
+· Develop novel therapeutics, including gene therapy, genome editing, and neural regeneration, for treating the diseases.
 
 {%
   include link.html
