@@ -1,17 +1,18 @@
 ### basic settings
-
 # site properties and page defaults
-title: Lab Website Template
+title: Chen Lab Website
+subtitle: A template by the Chen Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
+logo-text: false
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /lab-website-template
+baseurl: /Chen-lab-website
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
+  email: wmeng1018@gmail.com
+  google-scholar: Rui Chen
   github: your-lab
   twitter: YourLabHandle
   instagram: YourLabHandle
