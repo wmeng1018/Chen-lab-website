@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Decode our own genome
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+With over 30 million variants in the human genome, which ones are important? Through the lens of human variation and diseases, we focus on advancing our ability to identify, assess, and predict variants with functional consequences using an interdisciplinary approach.
 
 {%
   include link.html
