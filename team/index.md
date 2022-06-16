@@ -34,6 +34,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {% include section.html background="images/banner.jpg" dark=true%}
 
 We’re always on the lookout for new and unique perspectives. 
+
 {% include link.html type="external" link="https://wmeng1018.github.io/Chen-lab-website/Join%20us/" text="Join the Team" icon="" style="button" %} 
 {:.center}
 
