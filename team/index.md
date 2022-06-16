@@ -58,12 +58,15 @@ Gone but never forgotten. These are past lab members who have moved on to other 
 {% include section.html %}
 #### Mary
 PhD student 2011-2016
+
 Current position: Neuroscience PhD student at Stanford University
 
 #### Mary
 PhD student 2011-2016
+
 Current position: Neuroscience PhD student at Stanford University
 
 #### Mary
 PhD student 2011-2016
+
 Current position: Neuroscience PhD student at Stanford University
