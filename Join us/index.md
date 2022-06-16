@@ -48,4 +48,3 @@ If you are interested in learning more about genetics and genomics of human dise
 {% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include section.html %}
