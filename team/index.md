@@ -29,6 +29,18 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   component="portrait"
   filters="role: programmer"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
@@ -44,36 +56,14 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 Gone but never forgotten. These are past lab members who have moved on to other school programs, new jobs, or elsewhere. They have all made lasting contributions to science and to our hearts. 
 
 {% include section.html %}
+#### Mary
+PhD student 2011-2016
+Current position: Neuroscience PhD student at Stanford University
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-  style="width: 100px"
-%}
+#### Mary
+PhD student 2011-2016
+Current position: Neuroscience PhD student at Stanford University
 
+#### Mary
+PhD student 2011-2016
+Current position: Neuroscience PhD student at Stanford University
