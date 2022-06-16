@@ -59,9 +59,9 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/chan-zuckerberg-initiative.png"
+  link1="https://chanzuckerberg.com/"
+  tooltip1="Chan Zuckerberg Initiative"
 
   image2="images/photo.jpg"
   link2="https://nasa.gov/"
