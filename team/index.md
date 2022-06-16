@@ -34,7 +34,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {% include section.html background="images/banner.jpg" dark=true%}
 
 We’re always on the lookout for new and unique perspectives. 
-
+{:.center}
 {% include link.html type="external" link="https://wmeng1018.github.io/Chen-lab-website/Join%20us/" text="Join the Team" icon="" style="button" %} 
 {:.center}
 
@@ -74,6 +74,6 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   data="members"
   component="portrait"
   filters="role: programmer"
-  style="--width: 100px"
+  style="-width: 100px"
 %}
 
