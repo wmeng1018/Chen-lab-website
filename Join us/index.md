@@ -21,7 +21,6 @@ We are recruiting audacious postdocs to uncover the genetic code of human diseas
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include section.html %}
 
 #### Postdocs to create transformative technologies
 
@@ -30,7 +29,6 @@ We welcome innovative postdocs who will push the limit of current technologies a
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include section.html %}
 
 #### Postdocs to develop novel treatment of retinal degenerative diseases
 
@@ -45,13 +43,10 @@ We are looking for postdocs who are motivated to develop new cures for retinal d
 
 If you are interested in learning more about genetics and genomics of human diseases, single cell and other emerging omics technologies, developing novel gene therapeutics, neural regeneration, and applying and developing computational tools in large scale data analysis, our lab could be right for you.  We provide ample opportunities for cross training in both wet and dry lab technologies.  A list of potential projects are below:
 
-Novel approach for deciphering the contribution of coding and noncoding variants to the human diseases.
-
-Single cell omics technologies and their applications.
-
-Development of novel gene therapeutics through genome editing.
-
-Neural regeneration and therapy.
+- Novel approach for deciphering the contribution of coding and noncoding variants to the human diseases.
+- Single cell omics technologies and their applications.
+- Development of novel gene therapeutics through genome editing.
+- Neural regeneration and therapy.
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
