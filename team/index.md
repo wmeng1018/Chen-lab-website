@@ -34,9 +34,44 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {% include section.html background="images/banner.jpg" dark=true%}
 
 We work with a wide range of outstanding groups from around the world, and we’re always on the lookout for new and unique perspectives. 
-{% include link.html type="external" link="https://wmeng1018.github.io/Chen-lab-website/Join%20us/" text="Join the Team" icon="" style="button" %} {:.center}
+{% include link.html type="external" link="https://wmeng1018.github.io/Chen-lab-website/Join%20us/" text="Join the Team" icon="" style="button" %} 
+{:.center}
 
 {% include section.html %}
 
-# <i class="fas fa-users"></i>Alumni
+## Alumni
 Gone but never forgotten. These are past lab members who have moved on to other school programs, new jobs, or elsewhere. They have all made lasting contributions to science and to our hearts. ❤️
+
+{% include section.html %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: programmer"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: programmer"
+%}
+{:.center}
