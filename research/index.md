@@ -7,18 +7,40 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-##The Chen lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+#### The Chen lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
 
 We pursue these goals in the following areas:
-Identify genes and mutations underlying human diseases.
-Systematically predict and assess the function consequence of genetic variants across the genome.
-Investigate the changes in transcriptome and epigenome during development and under disease condition at single-cell resolution.
-Develop novel therapeutics, including gene therapy, genome editing, and neural regeneration, for treating the diseases.
+- Identify genes and mutations underlying human diseases.
+- Systematically predict and assess the function consequence of genetic variants across the genome.
+- Investigate the changes in transcriptome and epigenome during development and under disease condition at single-cell resolution.
+- Develop novel therapeutics, including gene therapy, genome editing, and neural regeneration, for treating the diseases.
 
 {% include section.html %}
 
-{% include search-box.html %}
+## Genetics of Disease
+#### Genetics plays important role in human visual disorders that affect more than 30 million people in the United States alone.  The Chen lab aims at characterizing the genetic factors underlying the neural degenerative diseases in the human visual system, including both the inherited to age related retinal degenerative diseases.  A combination of next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non human primate models, and machine learning and deep learning technologies are used.
 
-{% include search-info.html %}
+(Add an organoid figure)
+Inherited retinal degenerations (IRDs) are a collection of severe retina diseases following Mendelian inheritance model. Collectively, about 1 in 2000 people is affected by IRD. Over the last decade, our group has recruited over 7,000 patients with IRDs across the world. A combination of next generation sequencing (NGS) based panel, whole exome, and whole genome sequencing has been conducted. These efforts have led to accurate molecular diagnosis of about 85% of the patients, resulting in the discovered of 15 new IRD associated genes. Continued investigation of underlying genetics of the remaining 1,000 unsolved IRD patients provides excellent opportunities for novel disease gene and mutation discovery.
 
-{% include list.html data="citations" component="citation" style="rich" %}
+We also extended our study from Mendelian to complex diseases, such as Glaucoma and age-related macular degeneration (AMD), which affect a large portion of population over 65-year-old. We are taking a combination of genomic sequencing, single cell omics, and high through put functional assay to identify causal gene and genetic variants underlying the risk of these conditions.
+
+{% include section.html %}
+
+## Single Cell Omics
+#### The Chen lab is leading the effort of the constructing the cell atlas of the visual system as part of the [Human Cell Atlas (HCA) project](https://www.humancellatlas.org/biological-networks/).  Building on this foundation, we aim at gaining insights of the development and the disease of the visual system as the single cell resolution.
+
+(Add a MERFISH Figure)
+The rapidly developing single cell omics technology are revolutionizing many diverse fields of biomedical research.  These exciting cutting-edge technologies provide unprecedented opportunities for characterize the developmental and disease process at the ultimate single cell resolution.  We are further developing both experimental and computational analysis tools with primary focuses on the spatial single cell technologies and integrative analysis.
+
+{% include section.html %}
+
+## Therapeutics
+#### The Chen lab is applying what has been learnt from the genetics to develop novel therapeutics treating human retinal degenerative diseases.
+
+[Figure of gene therapy]
+We are pursuing multiple strategies in parallel to treat human retinal degenerative diseases.  For IRDs with defined genetic mutations, the most straightforward treatment is to restore the wild-type function of the mutated gene.  In addition to gene augment therapy, we are developing novel therapy with genome editing approach, including base editing, and prime editing.
+
+As the central nervous system (CNS) has little capacity for spontaneous regeneration, repair, or healing in human. severe damage in the CNS, due either to injury or neural degenerative disease, leads to permanent incapacity in patients who often require lifelong assistance.  It has been observed that some species, such as fish and birds, can regrow neural cells after retinal injury and restore visual function.  We are developing novel approach to active the intrinsic regeneration capability that is lost in humans that would lead to controlled regeneration of the retina tissue upon treatment.
+
+{% include section.html %}
