@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab is made up of a highly engaged and collaborative team of researchers. We recognize that diverse teams do better research. We foster an environment where team members are treated equally, and where we respect and admire our differences. The team includes postdocs, students at all levels and staff.
 
 {% include section.html %}
 
@@ -36,7 +33,10 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We work with a wide range of outstanding groups from around the world, and we’re always on the lookout for new and unique perspectives. 
+{% include link.html type="external" link="https://wmeng1018.github.io/Chen-lab-website/Join%20us/" text="Join the Team" icon="" style="button" %} {:.center}
 
 {% include section.html %}
+
+# <i class="fas fa-users"></i>Alumni
+Gone but never forgotten. These are past lab members who have moved on to other school programs, new jobs, or elsewhere. They have all made lasting contributions to science and to our hearts. ❤️
