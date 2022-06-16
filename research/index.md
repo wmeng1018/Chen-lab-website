@@ -12,11 +12,11 @@ We pursue these goals in the following areas:
 - Investigate the changes in transcriptome and epigenome during development and under disease condition at single-cell resolution.
 - Develop novel therapeutics, including gene therapy, genome editing, and neural regeneration, for treating the diseases.
 
-{% include banner.html image="images/banner.jpg" %}
+
 {% include section.html %}
 
 ## Genetics of Disease
-### Genetics plays important role in human visual disorders that affect more than 30 million people in the United States alone.  The Chen lab aims at characterizing the genetic factors underlying the neural degenerative diseases in the human visual system, including both the inherited to age related retinal degenerative diseases.  A combination of next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non human primate models, and machine learning and deep learning technologies are used.
+ Genetics plays important role in human visual disorders that affect more than 30 million people in the United States alone.  The Chen lab aims at characterizing the genetic factors underlying the neural degenerative diseases in the human visual system, including both the inherited to age related retinal degenerative diseases.  A combination of next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non human primate models, and machine learning and deep learning technologies are used.
 
 (Add an organoid figure)
 
@@ -28,7 +28,7 @@ We also extended our study from Mendelian to complex diseases, such as Glaucoma 
 {% include section.html %}
 
 ## Single Cell Omics
-### The Chen lab is leading the effort of the constructing the cell atlas of the visual system as part of the [Human Cell Atlas (HCA) project](https://www.humancellatlas.org/biological-networks/).  Building on this foundation, we aim at gaining insights of the development and the disease of the visual system as the single cell resolution.
+ The Chen lab is leading the effort of the constructing the cell atlas of the visual system as part of the [Human Cell Atlas (HCA) project](https://www.humancellatlas.org/biological-networks/).  Building on this foundation, we aim at gaining insights of the development and the disease of the visual system as the single cell resolution.
 
 (Add a MERFISH Figure)
 
@@ -38,7 +38,7 @@ The rapidly developing single cell omics technology are revolutionizing many div
 {% include section.html %}
 
 ## Therapeutics
-### The Chen lab is applying what has been learnt from the genetics to develop novel therapeutics treating human retinal degenerative diseases.
+ The Chen lab is applying what has been learnt from the genetics to develop novel therapeutics treating human retinal degenerative diseases.
 
 [Figure of gene therapy]
 
@@ -46,8 +46,8 @@ We are pursuing multiple strategies in parallel to treat human retinal degenerat
 
 As the central nervous system (CNS) has little capacity for spontaneous regeneration, repair, or healing in human. severe damage in the CNS, due either to injury or neural degenerative disease, leads to permanent incapacity in patients who often require lifelong assistance.  It has been observed that some species, such as fish and birds, can regrow neural cells after retinal injury and restore visual function.  We are developing novel approach to active the intrinsic regeneration capability that is lost in humans that would lead to controlled regeneration of the retina tissue upon treatment.
 
+{% include banner.html image="images/banner.jpg" %}
 {% include section.html %}
-
 
 
 #  <i class="fas fa-microscope"></i>Funding
