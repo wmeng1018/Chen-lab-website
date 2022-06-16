@@ -66,7 +66,7 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: undergrad"
 %}
 {%
   include list.html
