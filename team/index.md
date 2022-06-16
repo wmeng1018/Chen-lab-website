@@ -73,5 +73,6 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   data="members"
   component="portrait"
   filters="role: programmer"
+  style="--width: 100px"
 %}
 
