@@ -5,12 +5,9 @@ nav:
   tooltip: We're hiring!
 ---
 
-# <i class="fas fa-users"></i>Join us
+# <i class="fas fa-users"></i>Join The Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are always interested in getting to know people that have big ideas, enjoy fast-paced environments, express positivity and have an undying faith in teamwork and tackling the most challenging problems.
 
 {% include section.html %}
 ## Postdoc
@@ -18,7 +15,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 We are recruiting audacious postdocs to uncover the genetic code of human diseases. We aim at systematically characterize the genetic variants, coding and noncoding, underlying human visual disorders. We integrate next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non-human primate models, and machine learning and deep learning technologies approach to iteratively improve our ability to identify, assess, and predict the function of genetic variants in the context of human diseases.  Applicants with experiences in human genetics, genomics, molecular biology, bioinformatics, machine learning are most welcome.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 
@@ -26,7 +23,7 @@ We are recruiting audacious postdocs to uncover the genetic code of human diseas
 
 We welcome innovative postdocs who will push the limit of current technologies and software tools.  We are interested in advancing single cell omics technologies and applying cutting edge technologies to answer important biological questions.  Ph.D.s in genomics, bioinformatics, cell and molecular biology, neuroscience, and quantitative sciences are most welcome.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 
@@ -34,7 +31,7 @@ We welcome innovative postdocs who will push the limit of current technologies a
 
 We are looking for postdocs who are motivated to develop new cures for retinal degenerative diseases using the emerging genome editing approach.  The retina is an ideal system to test and optimize the genome editing technologies as novel therapeutic approaches.  In collaboration with various groups, our aim is to bring these exciting new technologies to human trial.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
@@ -48,7 +45,7 @@ If you are interested in learning more about genetics and genomics of human dise
 - Development of novel gene therapeutics through genome editing.
 - Neural regeneration and therapy.
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
