@@ -63,9 +63,9 @@ Our work is made possible by funding from several organizations.
   link1="https://chanzuckerberg.com/"
   tooltip1="Chan Zuckerberg Initiative"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/national-human-genome-research-institute.png"
+  link2="https://www.genome.gov/"
+  tooltip2="National Human Genome Research Institute"
 
   image3="images/photo.jpg"
   link3="https://nasa.gov/"
