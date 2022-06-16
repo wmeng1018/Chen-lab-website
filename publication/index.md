@@ -1,11 +1,11 @@
 ---
-title: Research
+title: Publication
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Publication
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-microscope"></i>Publication
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
