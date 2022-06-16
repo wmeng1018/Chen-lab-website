@@ -2,15 +2,18 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research and Projects
 ---
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##The Chen lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+
+We pursue these goals in the following areas:
+Identify genes and mutations underlying human diseases.
+Systematically predict and assess the function consequence of genetic variants across the genome.
+Investigate the changes in transcriptome and epigenome during development and under disease condition at single-cell resolution.
+Develop novel therapeutics, including gene therapy, genome editing, and neural regeneration, for treating the diseases.
 
 {% include section.html %}
 
