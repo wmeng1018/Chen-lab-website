@@ -57,7 +57,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/chan-zuckerberg-initiative.png"
   link1="https://chanzuckerberg.com/"
