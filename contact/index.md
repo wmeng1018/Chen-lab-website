@@ -8,13 +8,13 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Molecular and Human Genetics](), at the school of [Baylor College of Medicine](https://www.bcm.edu/).
-We are located on the 8th floor of the [Center for Wit and Sagacity]().
+We are located on the 8th floor of the [XXXX]().
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="232499@bcm.edu"
   tooltip=""
   link="scrooge@mcduck.com"
   style="button"
@@ -23,7 +23,7 @@ We are located on the 8th floor of the [Center for Wit and Sagacity]().
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(555) 555-5555"
   tooltip=""
   link="+1-555-867-5309"
   style="button"
