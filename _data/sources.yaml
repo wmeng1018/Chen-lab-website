@@ -1,31 +1,23 @@
 - id: doi:10.1186/s13059-018-1579-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-018-1579-x/MediaObjects/13059_2018_1579_Fig1_HTML.png?as=webp
   extra-links:
+    - type: source
+      link: https://github.com/fe4960/GRIPT_BCM
   tags:
   - Human Genetics
   - GRIPT
   - Mendelian disease
   - gene discovery
-  
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-    - knowledge graphs
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+- id: doi:10.1038/s41436-020-01003-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_Fig2_HTML.png?as=webp
   extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      link: https://static-content.springer.com/esm/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_MOESM2_ESM.xlsx
+  tags:
+  - Human Genetics
+  - TLCD3B
+  - retinal dystrophy
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
