@@ -70,7 +70,7 @@ Our work is made possible by funding from several organizations.
   link3="https://www.cprit.state.tx.us/"
   tooltip3="Cancer Prevention and Research Institute of Texas"
 
-  image4="images/national-eye-institute.jpeg"
+  image4="images/national-eye-institute.png"
   link4="https://www.nei.nih.gov/"
   tooltip4="National Eye Institute"
 
