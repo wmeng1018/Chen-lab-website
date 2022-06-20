@@ -258,3 +258,112 @@
   - BindSC
   - Bi-CCA
   - Integration
+- id: doi:10.1073/pnas.1901572116
+  title: Generation, transcriptome profiling, and functional validation of cone-rich
+    human retinal organoids
+  authors:
+  - Sangbae Kim
+  - Albert Lowe
+  - Rachayata Dharmat
+  - Seunghoon Lee
+  - Leah A. Owen
+  - Jun Wang
+  - Akbar Shakoor
+  - Yumei Li
+  - Denise J. Morgan
+  - Andre A. Hejazi
+  - Ales Cvekl
+  - Margaret M. DeAngelis
+  - Z. Jimmy Zhou
+  - Rui Chen
+  - Wei Liu
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-05-09'
+  link: https://doi.org/gf4x6c
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6561190/bin/pnas.1901572116fig01.jpg
+  extra-links: null
+  tags:
+  - Single Cell Omics
+  - Cone and Rod Photoreceptor
+  - Retinal Organoid
+- id: doi:10.1167/iovs.63.3.11
+  title: <i>AAV8</i>-Mediated Gene Therapy Rescues Retinal Degeneration Phenotype
+    in a <i>Tlcd3b</i> Knockout Mouse Model
+  authors:
+  - Xinye Qian
+  - Hehe Liu
+  - Shangyi Fu
+  - Jiaxiong Lu
+  - Yu-Ting Hung
+  - Cassidy Turner
+  - Haiwei Gu
+  - Rui Chen
+  publisher: Investigative Opthalmology &amp; Visual Science
+  date: '2022-03-11'
+  link: https://doi.org/gpnvqk
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8934561/bin/iovs-63-3-11-f001.jpg
+  extra-links: null
+  tags:
+  - Therapeutics
+  - Tlcd3b
+  - Retinal Degeneration
+  - Mouse Model
+- id: doi:10.1172/JCI123980
+  title: A nonhuman primate model of inherited retinal disease
+  authors:
+  - Ala Moshiri
+  - Rui Chen
+  - Soohyun Kim
+  - R. Alan Harris
+  - Yumei Li
+  - Muthuswamy Raveendran
+  - Sarah Davis
+  - Qingnan Liang
+  - Ori Pomerantz
+  - Jun Wang
+  - Laura Garzel
+  - Ashley Cameron
+  - Glenn Yiu
+  - J. Timothy Stout
+  - Yijun Huang
+  - Christopher J. Murphy
+  - Jeffrey Roberts
+  - Kota N. Gopalakrishna
+  - Kimberly Boyd
+  - Nikolai O. Artemyev
+  - Jeffrey Rogers
+  - Sara M. Thomasy
+  publisher: Journal of Clinical Investigation
+  date: '2019-01-22'
+  link: https://doi.org/gqcwhm
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6355306/bin/jci-129-123980-g282.jpg
+  extra-links: null
+  tags:
+  - Therapeutics
+  - Inherited Retinal Disease
+  - Ophthalmology
+  - Genetic Disease
+- id: doi:10.1089/hum.2018.078
+  title: Gene Therapy Rescues Retinal Degeneration in Receptor Expression-Enhancing
+    Protein 6 Mutant Mice
+  authors:
+  - Smriti Agrawal Zaneveld
+  - Aiden Eblimit
+  - Qingnan Liang
+  - Renae Bertrand
+  - Nathaniel Wu
+  - Hehe Liu
+  - Quynh Nguyen
+  - Jacques Zaneveld
+  - Keqing Wang
+  - Yumei Li
+  - Rui Chen
+  publisher: Human Gene Therapy
+  date: '2019-03-01'
+  link: https://doi.org/gqcwhn
+  image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=520096&s=86&r=4&c=2
+  extra-links: null
+  tags:
+  - Therapeutics
+  - Retinal Degeneration
+  - Retinitis Pigmentosa
