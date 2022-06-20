@@ -92,4 +92,22 @@
   - Retinal Degeneration
   - Retinitis Pigmentosa
 
+- id: doi:10.1016/j.jtos.2020.12.004
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8359589/bin/nihms-1726489-f0002.jpg
+  extra-links:
+  tags:
+  - Single Cell Omics
+  - Cornea
+  - Stem Cells
+  - Epithelium  
 
+- id: doi:10.1038/s41467-019-12917-9
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-12917-9/MediaObjects/41467_2019_12917_Fig2_HTML.png?as=webp
+  extra-links:
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse133707
+      text: Dataset
+  tags:
+  - Single Cell Omics
+  - snRNA-seq
+  - Human Retinal
