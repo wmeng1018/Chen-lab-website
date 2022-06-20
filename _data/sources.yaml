@@ -1,3 +1,15 @@
+- id: doi:10.1186/s13059-018-1579-x
+  date: 2018-11-26
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-018-1579-x/MediaObjects/13059_2018_1579_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/knowledge-graph-review/
+  tags:
+  - Human Genetics
+  - GRIPT
+  - Mendelian disease
+  - gene discovery
+  
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   date: 2020-6-2
