@@ -367,3 +367,62 @@
   - Therapeutics
   - Retinal Degeneration
   - Retinitis Pigmentosa
+- id: doi:10.1016/j.jtos.2020.12.004
+  title: Single-cell transcriptomics identifies limbal stem cell population and cell
+    types mapping its differentiation trajectory in limbal basal epithelium of human
+    cornea
+  authors:
+  - De-Quan Li
+  - Sangbae Kim
+  - Jin-Miao Li
+  - Qianmiao Gao
+  - Jongsu Choi
+  - Fang Bian
+  - Jiaoyue Hu
+  - Yun Zhang
+  - Jin Li
+  - Rong Lu
+  - Yumei Li
+  - Stephen C. Pflugfelder
+  - Hongyu Miao
+  - Rui Chen
+  publisher: The Ocular Surface
+  date: '2021-04-01'
+  link: https://doi.org/gjgjmc
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8359589/bin/nihms-1726489-f0002.jpg
+  extra-links: null
+  tags:
+  - Single Cell Omics
+  - Cornea
+  - Stem Cells
+  - Epithelium
+- id: doi:10.1038/s41467-019-12917-9
+  title: Single-nuclei RNA-seq on human retinal tissue provides improved transcriptome
+    profiling
+  authors:
+  - Qingnan Liang
+  - Rachayata Dharmat
+  - Leah Owen
+  - Akbar Shakoor
+  - Yumei Li
+  - Sangbae Kim
+  - Albert Vitale
+  - Ivana Kim
+  - Denise Morgan
+  - Shaoheng Liang
+  - Nathaniel Wu
+  - Ken Chen
+  - Margaret M. DeAngelis
+  - Rui Chen
+  publisher: Nature Communications
+  date: '2019-12-01'
+  link: https://doi.org/gnrscd
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-12917-9/MediaObjects/41467_2019_12917_Fig2_HTML.png?as=webp
+  extra-links:
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse133707
+    text: Dataset
+  tags:
+  - Single Cell Omics
+  - snRNA-seq
+  - Human Retinal
