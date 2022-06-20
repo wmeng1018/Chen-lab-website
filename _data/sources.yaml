@@ -58,3 +58,47 @@
   - Bi-CCA
   - Integration
  
+- id: doi:10.1038/s41467-019-12917-9
+   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-12917-9/MediaObjects/41467_2019_12917_Fig2_HTML.png?as=webp
+   extra-links:
+     - type: preprint
+       link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse133707
+       text: Dataset
+   tags:
+   - Single Cell Omics
+   - snRNA-seq
+   - Human Retinal
+   
+- id: doi:10.1073/pnas.1901572116
+   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6561190/bin/pnas.1901572116fig01.jpg
+   extra-links:
+   tags:
+   - Single Cell Omics
+   - Cone and Rod Photoreceptor
+   - Retinal Organoid
+
+- id: doi:10.1167/iovs.63.3.11
+   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8934561/bin/iovs-63-3-11-f001.jpg
+   extra-links:
+   tags:
+   - Therapeutics
+   - Tlcd3b
+   - Retinal Degeneration
+   - Mouse Model
+
+- id: doi:10.1172/JCI123980
+   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6355306/bin/jci-129-123980-g282.jpg
+   extra-links:
+   tags:
+   - Therapeutics
+   - Inherited Retinal Disease
+   - Ophthalmology
+   - Genetic Disease
+
+- id: doi:10.1089/hum.2018.078
+   image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=520096&s=86&r=4&c=2
+   extra-links:
+   tags:
+   - Therapeutics
+   - Retinal Degeneration
+   - Retinitis Pigmentosa
