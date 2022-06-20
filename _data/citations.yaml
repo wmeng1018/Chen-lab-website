@@ -1,6 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1186/s13059-018-1579-x
+  title: GRIPT: a novel case-control analysis method for Mendelian disease gene discovery
+  authors:
+  - Jun Wang
+  - Li Zhao
+  - Xia Wang
+  - Yong Chen
+  - Mingchu Xu
+  - Zachry T. Soens
+  - Zhongqi Ge
+  - Peter Ronghan Wang
+  - Fei Wang
+  - Rui Chen
+  publisher: Genome Biology
+  date: '2018-11-26'
+  link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1579-x
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-018-1579-x/MediaObjects/13059_2018_1579_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/knowledge-graph-review/
+  tags:
+  - Human Genetics
+  - GRIPT
+  - Mendelian disease
+  - gene discovery
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
