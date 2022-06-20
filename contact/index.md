@@ -7,25 +7,25 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Molecular and Human Genetics](), at the school of [Baylor College of Medicine](https://www.bcm.edu/).
-We are located on the 8th floor of the [XXXX]().
+Our lab is part of the [Department of Molecular and Human Genetics](https://www.bcm.edu/departments/molecular-and-human-genetics), at the school of [Baylor College of Medicine](https://www.bcm.edu/).
+We are located on the 8th floor of the Cullen Building().
 
 {%
   include link.html
   type="email"
   icon=""
-  text="232499@bcm.edu"
+  text="ruichen@bcm.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="ruichen@bcm.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 555-5555"
+  text="(713) 798-5194"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1713-798-5194"
   style="button"
 %}
 {%
@@ -34,7 +34,7 @@ We are located on the 8th floor of the [XXXX]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Baylor+College+of+Medicine+-+Cullen+Building/@29.7099884,-95.3951357,16.77z/data=!3m1!5s0x8640c077b329ed87:0xfaf0a9a39a3203b4!4m12!1m6!3m5!1s0x8640c07650d4bf6f:0xbb615085334e838e!2sBaylor+College+of+Medicine!8m2!3d29.7105676!4d-95.3964361!3m4!1s0x8640c076560db489:0xd6b50655cb0ff32d!8m2!3d29.710681!4d-95.3965053"
   style="button"
 %}
 {:.center}
@@ -43,23 +43,25 @@ We are located on the 8th floor of the [XXXX]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Genetics (Office)
+T805
+Department of Molecular and Human Genetics
+Houston, TX 77030
+United States
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  caption="Baylor College of Medicine"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Department of Metaphor"
+  caption="Department of Molecular and Human Genetics"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
