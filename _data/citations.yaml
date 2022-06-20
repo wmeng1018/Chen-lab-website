@@ -223,3 +223,38 @@
   - REEP6
   - Retinitis Pigmentosa
   - Retinal Dystrophy
+- id: doi:10.1186/s13059-022-02679-x
+  title: Bi-order multimodal integration of single-cell data
+  authors:
+  - Jinzhuang Dou
+  - Shaoheng Liang
+  - Vakul Mohanty
+  - Qi Miao
+  - Yuefan Huang
+  - Qingnan Liang
+  - Xuesen Cheng
+  - Sangbae Kim
+  - Jongsu Choi
+  - Yumei Li
+  - Li Li
+  - May Daher
+  - Rafet Basar
+  - Katayoun Rezvani
+  - Rui Chen
+  - Ken Chen
+  publisher: Genome Biology
+  date: '2022-05-09'
+  link: https://doi.org/gqcwhh
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02679-x/MediaObjects/13059_2022_2679_Fig1_HTML.png?as=webp
+  extra-links:
+  - type: preprint
+    link: https://satijalab.org/seurat/v4.0/weighted_nearest_neighbor_analysis.html
+    text: Dataset
+  - type: source
+    link: https://github.com/KChen-lab/bindSC
+    text: BindSC source
+  tags:
+  - Single Cell Omics
+  - BindSC
+  - Bi-CCA
+  - Integration
