@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Molecular and Human Genetics](https://www.bcm.edu/departments/molecular-and-human-genetics), at the school of [Baylor College of Medicine](https://www.bcm.edu/).
-We are located on the 8th floor of the Cullen Building().
+We are located on the 8th floor of the Cullen Building.
 
 {%
   include link.html
@@ -44,23 +44,26 @@ We are located on the 8th floor of the Cullen Building().
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 Genetics (Office)
-T805
-Department of Molecular and Human Genetics
+T805, 
+
+Department of Molecular and Human Genetics, 
+
 Houston, TX 77030
+
 United States
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/BCM.jpg"
   caption="Baylor College of Medicine"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/MHG.jpg"
   caption="Department of Molecular and Human Genetics"
 %}
 {% endcapture %}
