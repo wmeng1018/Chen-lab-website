@@ -56,14 +56,14 @@ United States
 {% capture col1 %}
 {%
   include figure.html
-  image="images/BCM.jpg"
+  image="images/BCM.jpeg"
   caption="Baylor College of Medicine"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/MHG.jpg"
+  image="images/MHG.jpeg"
   caption="Department of Molecular and Human Genetics"
 %}
 {% endcapture %}
