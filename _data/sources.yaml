@@ -6,19 +6,43 @@
   tags:
   - Human Genetics
   - GRIPT
-  - Mendelian disease
-  - gene discovery
+  - Mendelian Disease
+  - Gene Discovery
 
 - id: doi:10.1038/s41436-020-01003-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_Fig2_HTML.png?as=webp
   extra-links:
-    - type: source
-      link: https://static-content.springer.com/esm/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_MOESM2_ESM.xlsx
   tags:
   - Human Genetics
   - TLCD3B
-  - retinal dystrophy
+  - Retinal Dystrophy
+  
+- id: doi:10.1038/s41436-020-00948-3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-00948-3/MediaObjects/41436_2020_948_Fig3_HTML.png?as=webp
+  extra-links:
+  tags:
+  - Human Genetics
+  - Pathogenicity
+  - Rare Variant
+  - Mendelian Disease
+  
+- id: 10.1016/j.ajhg.2017.02.008
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5384039/bin/gr1.jpg
+  extra-links:
+  tags:
+  - Human Genetics
+  - CWC27
+  - Retinal Degeneration
 
+- id: 10.1016/j.ajhg.2016.10.008
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5142109/bin/gr2.jpg
+  extra-links:
+  tags:
+  - Human Genetics
+  - REEP6
+  - Retinitis Pigmentosa
+  - Retinal Dystrophy
+  
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   extra-links:
