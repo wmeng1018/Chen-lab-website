@@ -43,14 +43,10 @@ We are located on the 8th floor of the Cullen Building.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Genetics (Office)
-T805, 
-
-Department of Molecular and Human Genetics, 
-
-Houston, TX 77030
-
-United States
+#### Genetics (Office) T805, 
+#### Department of Molecular and Human Genetics, 
+#### Houston, TX 77030
+#### United States
 {:.center}
 
 {% capture col1 %}
