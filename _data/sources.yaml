@@ -61,12 +61,6 @@
  - id: doi:10.1016/j.jtos.2020.12.004
    image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8359589/bin/nihms-1726489-f0002.jpg
    extra-links:
-     - type: preprint
-       link: https://satijalab.org/seurat/v4.0/weighted_nearest_neighbor_analysis.html
-       text: Dataset
-     - type: source
-       link: https://github.com/KChen-lab/bindSC
-       text: BindSC source
    tags:
    - Single Cell Omics
    - Cornea
