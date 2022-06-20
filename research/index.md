@@ -62,23 +62,20 @@ Our work is made possible by funding from several organizations.
   link1="https://chanzuckerberg.com/"
   tooltip1="Chan Zuckerberg Initiative"
 
-  image2="images/national-human-genome-research-institute.png"
-  link2="https://www.genome.gov/"
-  tooltip2="National Human Genome Research Institute"
+  image2="images/fighting-blindness.png"
+  link2="https://www.fightingblindness.org/"
+  tooltip2="Foundation Fighting Blindness"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/cprit.png"
+  link3="https://www.cprit.state.tx.us/"
+  tooltip3="Cancer Prevention and Research Institute of Texas"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image4="images/national-eye-institute.png"
+  link4="https://www.nei.nih.gov/"
+  tooltip4="National Eye Institute"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  image5="images/retina-research.png"
+  link5="https://retinaresearchfnd.org/"
+  tooltip5="Retina Research Foundation"
 
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 %}
