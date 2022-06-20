@@ -26,7 +26,7 @@
   - Rare Variant
   - Mendelian Disease
   
-- id: 10.1016/j.ajhg.2017.02.008
+- id: doi:10.1016/j.ajhg.2017.02.008
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5384039/bin/gr2.jpg
   extra-links:
   tags:
@@ -34,7 +34,7 @@
   - CWC27
   - Retinal Degeneration
 
-- id: 10.1016/j.ajhg.2016.10.008
+- id: doi:10.1016/j.ajhg.2016.10.008
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5142109/bin/gr2.jpg
   extra-links:
   tags:
@@ -43,7 +43,7 @@
   - Retinitis Pigmentosa
   - Retinal Dystrophy
   
-- id: 10.1186/s13059-022-02679-x
+- id: doi:10.1186/s13059-022-02679-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-022-02679-x/MediaObjects/13059_2022_2679_Fig1_HTML.png?as=webp
   extra-links:
     - type: preprint
@@ -58,7 +58,7 @@
   - Bi-CCA
   - Integration
  
- - id: 10.1016/j.jtos.2020.12.004
+ - id: doi:10.1016/j.jtos.2020.12.004
    image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8359589/bin/nihms-1726489-f0002.jpg
    extra-links:
      - type: preprint
@@ -73,7 +73,7 @@
    - Stem Cells
    - Epithelium
   
-- id: 10.1038/s41467-019-12917-9
+- id: doi:10.1038/s41467-019-12917-9
    image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-12917-9/MediaObjects/41467_2019_12917_Fig2_HTML.png?as=webp
    extra-links:
      - type: preprint
@@ -84,7 +84,7 @@
    - snRNA-seq
    - Human Retinal
    
-- id: 10.1073/pnas.1901572116
+- id: doi:10.1073/pnas.1901572116
    image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6561190/bin/pnas.1901572116fig01.jpg
    extra-links:
    tags:
@@ -92,7 +92,7 @@
    - Cone and Rod Photoreceptor
    - Retinal Organoid
 
-- id: 10.1167/iovs.63.3.11
+- id: doi:10.1167/iovs.63.3.11
    image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8934561/bin/iovs-63-3-11-f001.jpg
    extra-links:
    tags:
@@ -101,7 +101,7 @@
    - Retinal Degeneration
    - Mouse Model
 
-- id: 10.1172/JCI123980
+- id: doi:10.1172/JCI123980
    image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6355306/bin/jci-129-123980-g282.jpg
    extra-links:
    tags:
@@ -110,7 +110,7 @@
    - Ophthalmology
    - Genetic Disease
 
-- id: 10.1089/hum.2018.078
+- id: doi:10.1089/hum.2018.078
    image: https://www.ncbi.nlm.nih.gov/corecgi/tileshop/tileshop.fcgi?p=PMC3&id=520096&s=86&r=4&c=2
    extra-links:
    tags:
