@@ -79,3 +79,4 @@ Our work is made possible by funding from several organizations.
   tooltip5="Retina Research Foundation"
 
 %}
+{:.center}
