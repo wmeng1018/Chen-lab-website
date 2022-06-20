@@ -24,8 +24,8 @@
   tags:
   - Human Genetics
   - GRIPT
-  - Mendelian disease
-  - gene discovery
+  - Mendelian Disease
+  - Gene Discovery
 - id: doi:10.1038/s41436-020-01003-x
   title: Ceramide synthase TLCD3B is a novel gene associated with human recessive
     retinal dystrophy
@@ -50,13 +50,179 @@
   date: '2021-03-01'
   link: https://doi.org/gqcv5v
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_Fig2_HTML.png?as=webp
-  extra-links:
-  - type: source
-    link: https://static-content.springer.com/esm/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_MOESM2_ESM.xlsx
+  extra-links: null
   tags:
   - Human Genetics
   - TLCD3B
-  - retinal dystrophy
+  - Retinal Dystrophy
+- id: doi:10.1038/s41436-020-00948-3
+  title: A novel statistical method for interpreting the pathogenicity of rare variants
+  authors:
+  - Jun Wang
+  - Hehe Liu
+  - Renae Elaine Bertrand
+  - Alejandro Sarrion-Perdigones
+  - Yezabel Gonzalez
+  - Koen J.T. Venken
+  - Rui Chen
+  publisher: Genetics in Medicine
+  date: '2021-01-01'
+  link: https://doi.org/gqcwgv
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-00948-3/MediaObjects/41436_2020_948_Fig3_HTML.png?as=webp
+  extra-links: null
+  tags:
+  - Human Genetics
+  - Pathogenicity
+  - Rare Variant
+  - Mendelian Disease
+- id: 10.1016/j.ajhg.2017.02.008
+  title: Mutations in the Spliceosome Component CWC27 Cause Retinal Degeneration with
+    or without Additional Developmental Anomalies
+  authors:
+  - Mingchu Xu
+  - Yajing (Angela) Xie
+  - Hana Abouzeid
+  - Christopher T. Gordon
+  - Alessia Fiorentino
+  - Zixi Sun
+  - Anna Lehman
+  - Ihab S. Osman
+  - Rachayata Dharmat
+  - Rosa Riveiro-Alvarez
+  - Linda Bapst-Wicht
+  - Darwin Babino
+  - Gavin Arno
+  - Virginia Busetto
+  - Li Zhao
+  - Hui Li
+  - Miguel A. Lopez-Martinez
+  - Liliana F. Azevedo
+  - Laurence Hubert
+  - Nikolas Pontikos
+  - Aiden Eblimit
+  - Isabel Lorda-Sanchez
+  - Valeria Kheir
+  - Vincent Plagnol
+  - Myriam Oufadem
+  - Zachry T. Soens
+  - Lizhu Yang
+  - Christine Bole-Feysot
+  - Rolph Pfundt
+  - Nathalie Allaman-Pillet
+  - "Patrick Nitschk\xE9"
+  - Michael E. Cheetham
+  - Stanislas Lyonnet
+  - Smriti A. Agrawal
+  - Huajin Li
+  - "Ga\xEBtan Pinton"
+  - Michel Michaelides
+  - Claude Besmond
+  - Yumei Li
+  - Zhisheng Yuan
+  - Johannes von Lintig
+  - Andrew R. Webster
+  - "Herv\xE9 Le Hir"
+  - Peter Stoilov
+  - Jeanne Amiel
+  - Alison J. Hardcastle
+  - Carmen Ayuso
+  - Ruifang Sui
+  - Rui Chen
+  - Rando Allikmets
+  - Daniel F. Schorderet
+  - Graeme Black
+  - Georgina Hall
+  - Rachel Gillespie
+  - Simon Ramsden
+  - Forbes Manson
+  - Panagiotis Sergouniotis
+  - Chris Inglehearn
+  - Carmel Toomes
+  - Manir Ali
+  - Martin McKibbin
+  - James Poulter
+  - Emma Lord
+  - Andrea Nemeth
+  - Stephanie Halford
+  - Susan Downes
+  - Jing Yu
+  publisher: The American Journal of Human Genetics
+  date: '2017-04-01'
+  link: https://doi.org/f92nd5
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5384039/bin/gr1.jpg
+  extra-links: null
+  tags:
+  - Human Genetics
+  - CWC27
+  - Retinal Degeneration
+- id: 10.1016/j.ajhg.2016.10.008
+  title: Mutations in REEP6 Cause Autosomal-Recessive Retinitis Pigmentosa
+  authors:
+  - Gavin Arno
+  - "Smriti\_A. Agrawal"
+  - Aiden Eblimit
+  - James Bellingham
+  - Mingchu Xu
+  - Feng Wang
+  - Christina Chakarova
+  - "David\_A. Parfitt"
+  - Amelia Lane
+  - Thomas Burgoyne
+  - Sarah Hull
+  - "Keren\_J. Carss"
+  - Alessia Fiorentino
+  - "Matthew\_J. Hayes"
+  - "Peter\_M. Munro"
+  - Ralph Nicols
+  - Nikolas Pontikos
+  - "Graham\_E. Holder"
+  - Chinwe Asomugha
+  - F. Lucy Raymond
+  - Anthony T. Moore
+  - Vincent Plagnol
+  - Michel Michaelides
+  - Alison J. Hardcastle
+  - Yumei Li
+  - Catherine Cukras
+  - Andrew R. Webster
+  - Michael E. Cheetham
+  - Rui Chen
+  - Graeme Black
+  - Georgina Hall
+  - Stuart Ingram
+  - Rachel Gillespie
+  - Forbes Manson
+  - Panagiotis Sergouniotis
+  - Chris Inglehearn
+  - Carmel Toomes
+  - Manir Ali
+  - Martin McKibbin
+  - James Poulter
+  - Kamron Khan
+  - Emma Lord
+  - Andrea Nemeth
+  - Susan Downes
+  - Jing Yu
+  - Stefano Lise
+  - Gavin Arno
+  - Alessia Fiorentino
+  - Nikos Ponitkos
+  - Vincent Plagnol
+  - Michel Michaelides
+  - "Alison\_J. Hardcastle"
+  - "Michael\_E. Cheetham"
+  - "Andrew\_R. Webster"
+  - "Veronica van\_Heyningen"
+  publisher: The American Journal of Human Genetics
+  date: '2016-12-01'
+  link: https://doi.org/f9fv6g
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5142109/bin/gr2.jpg
+  extra-links: null
+  tags:
+  - Human Genetics
+  - REEP6
+  - Retinitis Pigmentosa
+  - Retinal Dystrophy
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
