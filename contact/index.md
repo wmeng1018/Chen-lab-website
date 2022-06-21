@@ -18,6 +18,7 @@ We are located on the 8th floor of the Cullen Building.
 {% capture col1 %}
 ##### Genetics (Office) T805
 ##### Department of Molecular and Human Genetics
+##### 1 Baylor Plaza, Houston, TX 77030
 ##### Houston, TX 77030 
 ##### United States 
 
