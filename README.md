@@ -1,16 +1,8 @@
-<h1 align="center">Lab Website Template</h1>
+<h1 align="center">Chen Lab</h1>
 <p align="center">
 <img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
 </p>
-An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
-
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
-
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
+Welcome to Chen Lab!
 
 ## Features
 
@@ -32,26 +24,3 @@ How's our documentation?
 - Individual **team member pages** with bios, assignable roles, and social media links
 - A **blog page**, with a sorted, grouped, tagged list of all your posts
 
-## Gallery
-
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
-
-## Documentation
-
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
-
-[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
-
-[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
-
-[🤖 Citations](https://github.com/greenelab/lab-website-template/wiki/Citations)
-
-[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
-
-[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
-
-[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
-
-[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
-
-[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
