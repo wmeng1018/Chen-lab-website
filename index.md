@@ -9,7 +9,7 @@ With over 30 million variants in the human genome, which ones are important? Thr
 {:.center}
 
 {%
-  include gallery.html
+  include gallery.html style="square"
 
   image1="images/genetics1.jpeg"
   link1="https://wmeng1018.github.io/Chen-lab-website/research/#genetics-of-disease"
