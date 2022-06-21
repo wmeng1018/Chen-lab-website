@@ -52,12 +52,9 @@ We are located on the 8th floor of the Cullen Building.
 {% endcapture %}
 {% capture col2 %}
 {%
-  ### <i class="fas fa-mail-bulk"></i>Mailing Address
-  Genetics (Office) T805, 
-  Department of Molecular and Human Genetics, 
-  Houston, TX 77030, 
-  United States
-  {:.center}
+  include figure.html
+  image="images/BCM.jpeg"
+  caption="Baylor College of Medicine"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
