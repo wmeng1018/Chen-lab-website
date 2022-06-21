@@ -15,7 +15,7 @@ With over 30 million variants in the human genome, which ones are important? Thr
   link1="https://wmeng1018.github.io/Chen-lab-website/research/#genetics-of-disease"
   tooltip1="Genetics of Disease"
 
-  image2="images/SCO1.jpeg"
+  image2="images/SCO1.gif"
   link2="https://wmeng1018.github.io/Chen-lab-website/research/#single-cell-omics"
   tooltip2="Single Cell Omics"
 
