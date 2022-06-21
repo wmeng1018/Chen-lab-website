@@ -1,6 +1,6 @@
 <h1 align="center">Chen Lab</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
+<img height="200" src="images/62D7E28B-194C-4060-B338-848CA506327F.png" alt="Chen Lab Website">
 </p>
 Welcome to Chen Lab!
 
