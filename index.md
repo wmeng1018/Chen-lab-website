@@ -12,15 +12,15 @@ With over 30 million variants in the human genome, which ones are important? Thr
   include gallery.html style="square"
 
   image1="images/genetics1.jpeg"
-  link1="https://wmeng1018.github.io/Chen-lab-website/research/#genetics-of-disease"
+  link1="research/#genetics-of-disease"
   tooltip1="Genetics of Disease"
 
   image2="images/SCO1.gif"
-  link2="https://wmeng1018.github.io/Chen-lab-website/research/#single-cell-omics"
+  link2="research/#single-cell-omics"
   tooltip2="Single Cell Omics"
 
   image3="images/therapeutics1.jpeg"
-  link3="https://wmeng1018.github.io/Chen-lab-website/research/#therapeutics"
+  link3="research/#therapeutics"
   tooltip3="Therapeutics"
 
 %}
@@ -29,7 +29,7 @@ With over 30 million variants in the human genome, which ones are important? Thr
 
 {% include banner.html image="images/banner.jpg" %}
 
-{% include section.html full=true %}
+{% include section.html %}
 
 # Highlights
 
