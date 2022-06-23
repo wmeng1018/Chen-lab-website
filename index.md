@@ -29,7 +29,7 @@ With over 30 million variants in the human genome, which ones are important? Thr
 
 {% include banner.html image="images/banner.jpg" %}
 
-{% include section.html %}
+{% include section.html full=true %}
 
 # Highlights
 
