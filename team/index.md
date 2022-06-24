@@ -56,11 +56,8 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 Gone but never forgotten. These are past lab members who have moved on to other school programs, new jobs, or elsewhere. They have all made lasting contributions to science and to our hearts. 
 
 {% include section.html %}
-##### Mary, PhD student 2011-2016
-Current position: Neuroscience PhD student at Stanford University
+##### Mary, PhD student 2011-2016. Current position: Neuroscience PhD student at Stanford University
 
-##### Mary, PhD student 2011-2016
-Current position: Neuroscience PhD student at Stanford University
+##### Mary, PhD student 2011-2016. Current position: Neuroscience PhD student at Stanford University
 
-#### Mary, PhD student 2011-2016
-Current position: Neuroscience PhD student at Stanford University
+##### Mary, PhD student 2011-2016. Current position: Neuroscience PhD student at Stanford University
