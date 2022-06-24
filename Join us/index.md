@@ -1,7 +1,7 @@
 ---
 title: Join us
 nav:
-  order: 3
+  order: 6
   tooltip: We're hiring!
 ---
 
