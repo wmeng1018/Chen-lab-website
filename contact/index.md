@@ -17,7 +17,7 @@ We are located on the 8th floor of the Cullen Building.
 
 {% capture col1 %}
 
-
+<br>
 ##### Genetics (Office) T805
 ##### Department of Molecular and Human Genetics
 ##### Baylor College of Medicine
