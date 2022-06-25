@@ -25,10 +25,10 @@ body {
 
   section {
     box-sizing: content-box;
-    //padding: 60px 40px; // fallback
-    //padding: 60px Max(40px, calc((100% - #{$page}) / 2));
-    padding: 50px 30px;
-    padding: 50px 30px;
+    padding: 60px 40px; // fallback
+    padding: 60px Max(40px, calc((100% - #{$page}) / 3));
+    //padding: 50px 30px;
+    //padding: 50px 30px;
     text-align: center;
 
     &[data-full="true"] {
