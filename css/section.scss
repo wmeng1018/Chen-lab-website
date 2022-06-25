@@ -25,8 +25,8 @@ body {
 
   section {
     box-sizing: content-box;
-    padding: 40px 20px; // fallback
-    padding: 40px Max(20px, calc((100% - #{$page}) / 2));
+    padding: 60px 40px; // fallback
+    padding: 60px Max(40px, calc((100% - #{$page}) / 2));
     text-align: center;
 
     &[data-full="true"] {
@@ -39,7 +39,7 @@ body {
   }
 
   section:nth-of-type(even) {
-    background: $gray-50;
+    background: $gray-30;
   }
 
   section:last-of-type {
