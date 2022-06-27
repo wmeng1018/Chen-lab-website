@@ -1,6 +1,6 @@
 ---
 name: Salma Ferdous
-image: images/Salma.jpeg
+image: images/member/Salma.jpeg
 description: Postdoctoral Researcher
 role: postdoc
 aliases:
