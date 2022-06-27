@@ -11,7 +11,7 @@ With over 30 million variants in the human genome, which ones are important? Thr
 {%
   include gallery.html style="square"
 
-  image1="images/genetics1.jpeg"
+  image1="images/organoid1.jpg"
   link1="research/#genetics-of-disease"
   tooltip1="Genetics of Disease"
 
