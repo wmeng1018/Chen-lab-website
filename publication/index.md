@@ -7,11 +7,10 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
- Search by topics of Human Genetics, Single Cell Omics, Therapeutics and etc.
-
 {% include section.html %}
 
 {% include search-box.html %}
+ Search by topics of Human Genetics, Single Cell Omics, Therapeutics and etc.
 
 {% include search-info.html %}
 
