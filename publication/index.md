@@ -34,7 +34,7 @@ nav:
   icon=""
   text="More on Google Scholar"
   tooltip=""
-  link="rui chen"
+  link="F_4HNPAAAAAJ"
   
 %}
 {:.center}
