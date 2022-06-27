@@ -21,20 +21,20 @@ nav:
 ## More
 {%
   include link.html
-  type="pubmed"
+  type="docs"
   icon=""
   text="More on PubMed"
   tooltip=""
-  link="ruichen@bcm.edu"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=rui%20s%20chen"
   
 %}
 {%
   include link.html
-  type="google"
+  type="google-scholar"
   icon=""
   text="More on Google Scholar"
   tooltip=""
-  link="+1713-798-5194"
+  link="rui chen"
   
 %}
 {:.center}
