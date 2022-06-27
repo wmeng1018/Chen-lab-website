@@ -1,6 +1,6 @@
 ---
 name: Rui Chen
-image: images/rui.jpeg
+image: images/member/rui.jpeg
 description: Principal Investigator
 role: pi
 aliases:
