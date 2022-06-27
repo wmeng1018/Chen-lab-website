@@ -22,7 +22,20 @@ Inherited retinal degenerations (IRDs) are a collection of severe retina disease
 
 We also extended our study from Mendelian to complex diseases, such as Glaucoma and age-related macular degeneration (AMD), which affect a large portion of population over 65-year-old. We are taking a combination of genomic sequencing, single cell omics, and high through put functional assay to identify causal gene and genetic variants underlying the risk of these conditions.
 
-{% include banner.html image="images/organoid1.jpg" %}
+{%
+  include gallery.html
+
+  image1="images/organoid1.jpg"
+  link1="research/#genetics-of-disease"
+  tooltip1="Genetics of Disease"
+
+  image2="images/organoid1.jpg"
+  link2="research/#single-cell-omics"
+  tooltip2="Single Cell Omics"
+
+%}
+{:.center}
+
 {% include section.html %}
 
 ## Single Cell Omics
