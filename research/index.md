@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-microscope"></i>Research
-We pursue these goals in the following areas:
+We pursue the goals in the following areas:
 - Identify genes and mutations underlying human diseases.
 - Systematically predict and assess the function consequence of genetic variants across the genome.
 - Investigate the changes in transcriptome and epigenome during development and under disease condition at single-cell resolution.
