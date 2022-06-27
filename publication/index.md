@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-Our lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+ Search by topics of Human Genetics, Single Cell Omics, Therapeutics and etc.
 
 {% include section.html %}
 
