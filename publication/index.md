@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-{% include section.html %}
+{% include section.html dark=true%}
 
 {% include search-box.html %}
 ###### Search by keywords, authors or anything of interest. Examples: Human Genetics, Single Cell Omics, Therapeutics and etc.
