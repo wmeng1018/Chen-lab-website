@@ -18,7 +18,7 @@
 {%- assign url = member.url | default: "" -%}
 
 {::nomarkdown}
-<a {% if url %}href="{{ url | relative_url }}"{% endif %} class="portrait" style="--width: 200px">
+<a {% if url %}href="{{ url | relative_url }}"{% endif %} class="portrait" style="--width: {{ width }}px">
 
   {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
@@ -35,6 +35,7 @@
       onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
       loading="lazy"
       alt="{{ name | default: 'Member portrait' }}"
+      style="--width: 200px"
     >
   </span>
 
