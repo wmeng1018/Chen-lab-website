@@ -18,7 +18,7 @@
 {%- assign url = member.url | default: "" -%}
 
 {::nomarkdown}
-<a {% if url %}href="{{ url | relative_url }}"{% endif %} class="portrait" style="--width: {{ width }}px">
+<a {% if url %}href="{{ url | relative_url }}"{% endif %} class="portrait" style="--width: 200px">
 
   {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
