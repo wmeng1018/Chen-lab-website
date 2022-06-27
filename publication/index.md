@@ -16,3 +16,25 @@ nav:
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+{% include section.html %}
+## More
+{%
+  include link.html
+  type="pubmed"
+  icon=""
+  text="More on PubMed"
+  tooltip=""
+  link="ruichen@bcm.edu"
+  
+%}
+{%
+  include link.html
+  type="google"
+  icon=""
+  text="More on Google Scholar"
+  tooltip=""
+  link="+1713-798-5194"
+  
+%}
+{:.center}
