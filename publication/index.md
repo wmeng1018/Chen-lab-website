@@ -10,7 +10,8 @@ nav:
 {% include section.html %}
 
 {% include search-box.html %}
- Search by topics of Human Genetics, Single Cell Omics, Therapeutics and etc.
+ Search by keywords, authors or anything of interest.
+ Examples: Human Genetics, Single Cell Omics, Therapeutics and etc.
  {:.center}
 
 {% include search-info.html %}
