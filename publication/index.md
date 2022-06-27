@@ -11,6 +11,7 @@ nav:
 
 {% include search-box.html %}
  Search by topics of Human Genetics, Single Cell Omics, Therapeutics and etc.
+ {:.center}
 
 {% include search-info.html %}
 
