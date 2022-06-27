@@ -4,6 +4,7 @@ image: images/member/xinye.jpeg
 description: Research Assistant
 role: phd
 aliases:
+  - Xinye Qian
   - X. Qian
   - X Qian
 links:
