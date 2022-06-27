@@ -8,7 +8,7 @@ aliases:
   - S Ferdous
   - S. Ferdous
 links:
-  linkedin: https://www.linkedin.com/in/salmaferdous/
+  linkedin: salmaferdous
   email: salma.ferdous@bcm.edu
 ---
 
