@@ -4,6 +4,7 @@ image: images/member/rui.jpeg
 description: Principal Investigator
 role: pi
 aliases:
+  - Rui Chen
   - R. Chen
   - R Chen
 links:
