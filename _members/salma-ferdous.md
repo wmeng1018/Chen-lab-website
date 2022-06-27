@@ -4,7 +4,9 @@ image: images/member/Salma.jpeg
 description: Postdoctoral Researcher
 role: postdoc
 aliases:
-  - 
+  - Salma Ferdous
+  - S Ferdous
+  - S. Ferdous
 links:
   email: salma.ferdous@bcm.edu
 ---
