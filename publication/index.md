@@ -6,7 +6,7 @@ nav:
 ---
 
 {% include section.html dark=true%}
-# <i class="fas fa-microscope"></i>Publications
+# <i class="fas fa-book-open"></i>Publications
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
@@ -19,7 +19,7 @@ nav:
 {% include list.html data="citations" component="citation" style="rich" %}
 
 {% include section.html dark=true %}
-## More
+## <i class="fas fa-book-open"></i>More
 {%
   include link.html
   type="docs"
