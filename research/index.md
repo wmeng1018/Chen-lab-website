@@ -26,12 +26,10 @@ We also extended our study from Mendelian to complex diseases, such as Glaucoma 
   include gallery.html
 
   image1="images/organoid1.jpg"
-  link1="research/#genetics-of-disease"
   tooltip1="Genetics of Disease"
 
   image2="images/organoid1.jpg"
-  link2="research/#single-cell-omics"
-  tooltip2="Single Cell Omics"
+  tooltip2="Retina Organoid"
 
 %}
 {:.center}
