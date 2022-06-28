@@ -1,6 +1,6 @@
 ---
 title: Johnny’s wedding
-tags: life
+tags:
 author: Meng
 member: Johnny
 ---
