@@ -28,7 +28,7 @@ nav:
   tooltip=""
   link="https://pubmed.ncbi.nlm.nih.gov/?term=rui%20chen"
 %}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 {%
   include link.html
   type="google-scholar"
