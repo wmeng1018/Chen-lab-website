@@ -12,7 +12,15 @@ links:
 ---
 
 ## Positions
-Professor of Molecular and Human Genetics, Baylor College of Medicine<br>
-Professor of HGSC, Baylor College of Medicine<br>
-Director of Center of Single Cell Omics, Baylor College of Medicine<br>
-Academic Director of ATC Single Cell Genomics Core, Baylor College of Medicine
+<b>Professor</b>   Molecular and Human Genetics, Baylor College of Medicine<br>
+<b>Professor</b>   HGSC, Baylor College of Medicine<br>
+<b>Director</b>   Center of Single Cell Omics, Baylor College of Medicine<br>
+<b>Academic Director</b>   ATC Single Cell Genomics Core, Baylor College of Medicine
+
+## Education
+<b>BS from Tsinghua University</b><br>
+01/1994 - Beijing, China, People's Rep<br>
+<b>PhD from Baylor College Of Medicine</b><br>
+01/1999 - Houston, TX United States<br>
+<b>Post-Doctoral Fellowship at Baylor College Of Medicine</b><br>
+01/2002 - Houston, United States
