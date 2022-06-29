@@ -13,7 +13,7 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
 {%
   include gallery.html style="square"
 
-  image1="images/organoid1.jpg"
+  image1="images/genetics1.jpeg"
   link1="research/#genetics-of-disease"
   tooltip1="Genetics of Disease"
 
