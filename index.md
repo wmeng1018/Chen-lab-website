@@ -73,7 +73,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
+  link="tools"
   title="Our Resources"
   flip=true
   text=text
