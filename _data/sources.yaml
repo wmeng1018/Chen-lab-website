@@ -8,6 +8,8 @@
   - GRIPT
   - Mendelian Disease
   - Gene Discovery
+  topics:
+  - Human Genetics
 
 - id: doi:10.1038/s41436-020-01003-x
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-01003-x/MediaObjects/41436_2020_1003_Fig2_HTML.png?as=webp
