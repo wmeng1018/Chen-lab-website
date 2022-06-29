@@ -30,7 +30,7 @@
 
 {%- assign items = tag1.items -%}
 
-{%- if tag1.size > 1 -%}
+{%- if tag1s.size > 1 -%}
   <h3 id="{{ tag1.name }}">{{ tag1.name }}</h3>
   {%- assign items = items | sort: "date" | reverse -%}
 {%- endif -%}
