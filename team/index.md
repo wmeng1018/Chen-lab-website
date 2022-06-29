@@ -65,7 +65,29 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   tooltip=""
   link="https://www.linkedin.com/"
 %}
-
-<small><b>Mary, PhD student 2011-2016.</b> Current position: Neuroscience PhD student at Stanford University</small>
-
-<small><b>Mary, PhD student 2011-2016.</b> Current position: Neuroscience PhD student at Stanford University</small>
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Email"
+  tooltip=""
+  link="232499@bcm.edu"
+%}
+<br><small><b>Mary, PhD student 2011-2016.</b> Current position: Neuroscience PhD student at Stanford University</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="https://www.linkedin.com/"
+%}
+<br><small><b>Mary, PhD student 2011-2016.</b> Current position: Neuroscience PhD student at Stanford University</small>
+{%
+  include link.html
+  type="linkedin"
+  icon=""
+  text="LinkedIn"
+  tooltip=""
+  link="https://www.linkedin.com/"
+%}
