@@ -4,7 +4,9 @@ title: Home
 
 # Decode our own genome
 
-With over 30 million variants in the human genome, which ones are important? Through the lens of human variation and diseases, we focus on advancing our ability to identify, assess, and predict variants with functional consequences using an interdisciplinary approach. Our lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+With over 30 million variants in the human genome, which ones are important? Through the lens of human variation and diseases, we focus on advancing our ability to identify, assess, and predict variants with functional consequences using an interdisciplinary approach. 
+
+Our lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
 
 {:.center}
 
