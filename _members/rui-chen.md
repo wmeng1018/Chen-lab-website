@@ -12,21 +12,7 @@ links:
 ---
 
 ## Positions
-Professor
-Molecular and Human Genetics
-Baylor College of Medicine
-
-Professor
-HGSC:Faculty-General/Basic
-Baylor College of Medicine
-Houston, Texas United States
-
-Director
-Center of Single Cell Omics
-Baylor College of Medicine
-Houston, Texas United States
-
-Academic Director
-ATC Single Cell Genomics Core
-Baylor College of Medicine
-Houston, Texas United States
+Professor of Molecular and Human Genetics, Baylor College of Medicine<br>
+Professor of HGSC, Baylor College of Medicine<br>
+Director of Center of Single Cell Omics, Baylor College of Medicine<br>
+Academic Director of ATC Single Cell Genomics Core, Baylor College of Medicine
