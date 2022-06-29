@@ -8,7 +8,11 @@ aliases:
   - R. Chen
   - R Chen
 links:
+  home-page: https://www.researchgate.net/profile/Rui-Chen-43
   email: ruichen@bcm.edu
+  linkedin: rui-chen-40661638
+  google-scholar: F_4HNPAAAAAJ
+
 ---
 
 ## Positions
