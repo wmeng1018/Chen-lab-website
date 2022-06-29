@@ -24,14 +24,14 @@
   {%- endif -%}
 {%- endfor -%}
 
-{%- assign years = data | group_by_exp: "d", "d.date | date: '%Y'" | sort: "name" | reverse -%}
+{%- assign tag1s = data | group_by_exp: "d", "d.tags | tags: '%1'" | sort: "name" | reverse -%}
 
-{%- for year in years -%}
+{%- for tag1 in tag1s -%}
 
-{%- assign items = year.items -%}
+{%- assign items = tag1.items -%}
 
-{%- if years.size > 1 -%}
-  <h3 id="{{ tags.name }}">{{ tags.name }}</h3>
+{%- if tag1.size > 1 -%}
+  <h3 id="{{ tag1.name }}">{{ tag1.name }}</h3>
   {%- assign items = items | sort: "tags" | reverse -%}
 {%- endif -%}
 
