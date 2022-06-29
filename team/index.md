@@ -21,6 +21,12 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
@@ -28,12 +34,6 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   data="members"
   component="portrait"
   filters="role: programmer"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc"
 %}
 {%
   include list.html
