@@ -57,6 +57,8 @@
   - Human Genetics
   - TLCD3B
   - Retinal Dystrophy
+  topics:
+  - Human Genetics
 - id: doi:10.1038/s41436-020-00948-3
   title: A novel statistical method for interpreting the pathogenicity of rare variants
   authors:
@@ -77,6 +79,8 @@
   - Pathogenicity
   - Rare Variant
   - Mendelian Disease
+  topics:
+  - Human Genetics
 - id: doi:10.1016/j.ajhg.2017.02.008
   title: Mutations in the Spliceosome Component CWC27 Cause Retinal Degeneration with
     or without Additional Developmental Anomalies
@@ -157,6 +161,8 @@
   - Human Genetics
   - CWC27
   - Retinal Degeneration
+  topics:
+  - Human Genetics
 - id: doi:10.1016/j.ajhg.2016.10.008
   title: Mutations in REEP6 Cause Autosomal-Recessive Retinitis Pigmentosa
   authors:
@@ -225,6 +231,8 @@
   - REEP6
   - Retinitis Pigmentosa
   - Retinal Dystrophy
+  topics:
+  - Human Genetics
 - id: doi:10.1186/s13059-022-02679-x
   title: Bi-order multimodal integration of single-cell data
   authors:
@@ -260,6 +268,8 @@
   - BindSC
   - Bi-CCA
   - Integration
+  topics:
+  - Single Cell Omics
 - id: doi:10.1073/pnas.1901572116
   title: Generation, transcriptome profiling, and functional validation of cone-rich
     human retinal organoids
@@ -288,6 +298,8 @@
   - Single Cell Omics
   - Cone and Rod Photoreceptor
   - Retinal Organoid
+  topics:
+  - Single Cell Omics
 - id: doi:10.1167/iovs.63.3.11
   title: <i>AAV8</i>-Mediated Gene Therapy Rescues Retinal Degeneration Phenotype
     in a <i>Tlcd3b</i> Knockout Mouse Model
@@ -310,6 +322,8 @@
   - Tlcd3b
   - Retinal Degeneration
   - Mouse Model
+  topics:
+  - Therapeutics
 - id: doi:10.1172/JCI123980
   title: A nonhuman primate model of inherited retinal disease
   authors:
@@ -345,6 +359,8 @@
   - Inherited Retinal Disease
   - Ophthalmology
   - Genetic Disease
+  topics:
+  - Therapeutics
 - id: doi:10.1089/hum.2018.078
   title: Gene Therapy Rescues Retinal Degeneration in Receptor Expression-Enhancing
     Protein 6 Mutant Mice
@@ -369,6 +385,8 @@
   - Therapeutics
   - Retinal Degeneration
   - Retinitis Pigmentosa
+  topics:
+  - Therapeutics
 - id: doi:10.1016/j.jtos.2020.12.004
   title: Single-cell transcriptomics identifies limbal stem cell population and cell
     types mapping its differentiation trajectory in limbal basal epithelium of human
@@ -398,6 +416,8 @@
   - Cornea
   - Stem Cells
   - Epithelium
+  topics:
+  - Single Cell Omics
 - id: doi:10.1038/s41467-019-12917-9
   title: Single-nuclei RNA-seq on human retinal tissue provides improved transcriptome
     profiling
@@ -428,3 +448,5 @@
   - Single Cell Omics
   - snRNA-seq
   - Human Retinal
+  topics:
+  - Single Cell Omics
