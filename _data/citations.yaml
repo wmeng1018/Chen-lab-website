@@ -26,6 +26,8 @@
   - GRIPT
   - Mendelian Disease
   - Gene Discovery
+  topics:
+  - Human Genetics
 - id: doi:10.1038/s41436-020-01003-x
   title: Ceramide synthase TLCD3B is a novel gene associated with human recessive
     retinal dystrophy
