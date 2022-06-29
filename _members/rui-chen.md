@@ -25,6 +25,6 @@ links:
 <b>BS from Tsinghua University</b><br>
 01/1994 - Beijing, China, People's Rep<br>
 <b>PhD from Baylor College Of Medicine</b><br>
-01/1999 - Houston, TX United States<br>
+01/1999 - Houston, TX, United States<br>
 <b>Post-Doctoral Fellowship at Baylor College Of Medicine</b><br>
-01/2002 - Houston, United States
+01/2002 - Houston, TX, United States
