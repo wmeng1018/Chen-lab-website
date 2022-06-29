@@ -63,7 +63,7 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   icon=""
   text="LinkedIn"
   tooltip=""
-  link="https://www.linkedin.com/"
+  link="meng-wang-1018"
 %}
 {%
   include link.html
@@ -80,7 +80,7 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   icon=""
   text="LinkedIn"
   tooltip=""
-  link="https://www.linkedin.com/"
+  link="meng-wang-1018"
 %}
 <br><small><b>Mary, PhD student 2011-2016.</b> Current position: Neuroscience PhD student at Stanford University</small>
 {%
@@ -89,5 +89,5 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   icon=""
   text="LinkedIn"
   tooltip=""
-  link="https://www.linkedin.com/"
+  link="meng-wang-1018"
 %}
