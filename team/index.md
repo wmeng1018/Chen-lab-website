@@ -91,3 +91,4 @@ Gone but never forgotten. These are past lab members who have moved on to other 
   tooltip=""
   link="meng-wang-1018"
 %}
+{:.center}
