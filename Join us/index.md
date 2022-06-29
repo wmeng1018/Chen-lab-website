@@ -8,7 +8,7 @@ nav:
 
 We are always interested in getting to know people that have big ideas, enjoy fast-paced environments, express positivity and have an undying faith in teamwork and tackling the most challenging problems.
 
-{% include section.html background="images/banner.jpg"%}
+{% include section.html background="images/photo.jpg"%}
 ## Postdoc
 #### Postdocs to uncover the genetic code of human diseases
 
@@ -33,7 +33,7 @@ We are looking for postdocs who are motivated to develop new cures for retinal d
 {% include link.html type="external" link="mailto:ruichen@bcm.edu" text="Apply Now" icon="" style="button" %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" %}
+{% include section.html background="images/photo.jpg" %}
 
 ## Projects for graduate students
 
