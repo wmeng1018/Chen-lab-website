@@ -24,7 +24,7 @@
   {%- endif -%}
 {%- endfor -%}
 
-{%- assign tag1s = data | group_by_exp: "d", "d.tags | tags: '%1'" | sort: "name"  -%}
+{%- assign tag1s = data | group_by_exp: "d", "d.tags" | sort: "name"  -%}
 
 {%- for tag1 in tag1s -%}
 
