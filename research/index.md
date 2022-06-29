@@ -16,7 +16,7 @@ We pursue the goals in the following areas:
 {% include section.html %}
 
 ## Genetics of Disease
- Genetics plays important role in human visual disorders that affect more than 30 million people in the United States alone.  The Chen lab aims at characterizing the genetic factors underlying the neural degenerative diseases in the human visual system, including both the inherited to age related retinal degenerative diseases.  A combination of next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non human primate models, and machine learning and deep learning technologies are used.
+<b>Genetics plays important role in human visual disorders that affect more than 30 million people in the United States alone.  The Chen lab aims at characterizing the genetic factors underlying the neural degenerative diseases in the human visual system, including both the inherited to age related retinal degenerative diseases.  A combination of next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non human primate models, and machine learning and deep learning technologies are used.</b>
 
 Inherited retinal degenerations (IRDs) are a collection of severe retina diseases following Mendelian inheritance model. Collectively, about 1 in 2000 people is affected by IRD. Over the last decade, our group has recruited over 7,000 patients with IRDs across the world. A combination of next generation sequencing (NGS) based panel, whole exome, and whole genome sequencing has been conducted. These efforts have led to accurate molecular diagnosis of about 85% of the patients, resulting in the discovered of 15 new IRD associated genes. Continued investigation of underlying genetics of the remaining 1,000 unsolved IRD patients provides excellent opportunities for novel disease gene and mutation discovery.
 
@@ -37,17 +37,27 @@ We also extended our study from Mendelian to complex diseases, such as Glaucoma 
 {% include section.html %}
 
 ## Single Cell Omics
- The Chen lab is leading the effort of the constructing the cell atlas of the visual system as part of the [Human Cell Atlas (HCA) project](https://www.humancellatlas.org/biological-networks/).  Building on this foundation, we aim at gaining insights of the development and the disease of the visual system as the single cell resolution.
+<b>The Chen lab is leading the effort of the constructing the cell atlas of the visual system as part of the [Human Cell Atlas (HCA) project](https://www.humancellatlas.org/biological-networks/).  Building on this foundation, we aim at gaining insights of the development and the disease of the visual system as the single cell resolution.</b>
 
 (Add a MERFISH Figure)
 
 The rapidly developing single cell omics technology are revolutionizing many diverse fields of biomedical research.  These exciting cutting-edge technologies provide unprecedented opportunities for characterize the developmental and disease process at the ultimate single cell resolution.  We are further developing both experimental and computational analysis tools with primary focuses on the spatial single cell technologies and integrative analysis.
 
-{% include banner.html image="images/banner.jpg" %}
+{%
+  include gallery.html
+
+  image1="images/SCO1.gif"
+  tooltip1="Single Cell Omics"
+
+  image2="images/SCO2.png"
+  tooltip2="workflow chart"
+
+%}
+{:.center}
 {% include section.html %}
 
 ## Therapeutics
- The Chen lab is applying what has been learnt from the genetics to develop novel therapeutics treating human retinal degenerative diseases.
+<b>The Chen lab is applying what has been learnt from the genetics to develop novel therapeutics treating human retinal degenerative diseases.</b>
 
 [Figure of gene therapy]
 
