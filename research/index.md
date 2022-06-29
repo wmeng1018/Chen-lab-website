@@ -5,7 +5,7 @@ nav:
   tooltip: Research and Projects
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-microscope"></i><b>Research</b>
 We pursue the goals in the following areas:
 - Identify genes and mutations underlying human diseases.
 - Systematically predict and assess the function consequence of genetic variants across the genome.
@@ -15,7 +15,7 @@ We pursue the goals in the following areas:
 
 {% include section.html %}
 
-## Genetics of Disease
+## <b>Genetics of Disease</b>
 <b>Genetics plays important role in human visual disorders that affect more than 30 million people in the United States alone.  The Chen lab aims at characterizing the genetic factors underlying the neural degenerative diseases in the human visual system, including both the inherited to age related retinal degenerative diseases.  A combination of next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non human primate models, and machine learning and deep learning technologies are used.</b>
 
 Inherited retinal degenerations (IRDs) are a collection of severe retina diseases following Mendelian inheritance model. Collectively, about 1 in 2000 people is affected by IRD. Over the last decade, our group has recruited over 7,000 patients with IRDs across the world. A combination of next generation sequencing (NGS) based panel, whole exome, and whole genome sequencing has been conducted. These efforts have led to accurate molecular diagnosis of about 85% of the patients, resulting in the discovered of 15 new IRD associated genes. Continued investigation of underlying genetics of the remaining 1,000 unsolved IRD patients provides excellent opportunities for novel disease gene and mutation discovery.
