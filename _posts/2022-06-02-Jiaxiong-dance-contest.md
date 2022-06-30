@@ -5,6 +5,4 @@ author: Meng
 member: Jiaxiong Lu
 ---
 
-# 
-
 Congratulations to Jiaxiong for winning the Ken Scott Dance Contest during 2022 Molecular and Human Genetics Retreat!!! 
