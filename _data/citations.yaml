@@ -21,6 +21,7 @@
   extra-links:
   - type: source
     link: https://github.com/fe4960/GRIPT_BCM
+    text: GRIPT source
   tags:
   - Human Genetics
   - GRIPT
@@ -76,7 +77,7 @@
   extra-links:
   - type: source
     link: https://github.com/fe4960/Binomial_test
-    text: Binomial Test Source
+    text: Binomial Test source
   tags:
   - Human Genetics
   - Pathogenicity
