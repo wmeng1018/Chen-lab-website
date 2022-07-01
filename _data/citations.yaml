@@ -73,7 +73,10 @@
   date: '2021-01-01'
   link: https://doi.org/gqcwgv
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41436-020-00948-3/MediaObjects/41436_2020_948_Fig3_HTML.png?as=webp
-  extra-links: null
+  extra-links:
+  - type: source
+    link: https://github.com/fe4960/Binomial_test
+    text: Binomial Test Source
   tags:
   - Human Genetics
   - Pathogenicity
