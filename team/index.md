@@ -81,6 +81,14 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   tooltip=""
   link="meng-wang-1018"
 %}
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Email"
+  tooltip=""
+  link="232499@bcm.edu"
+%}
 <br><small><b>Mary, PhD student 2011-2016.</b> Current position: Neuroscience PhD student at Stanford University</small>
 {%
   include link.html
@@ -89,5 +97,13 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   text="LinkedIn"
   tooltip=""
   link="meng-wang-1018"
+%}
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Email"
+  tooltip=""
+  link="232499@bcm.edu"
 %}
 {:.center}
