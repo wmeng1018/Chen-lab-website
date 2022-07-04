@@ -41,7 +41,7 @@ The rapidly developing single cell omics technology are revolutionizing many div
 
 %}
 {:.center}
-{% include section.html %}
+{% include section.html background="images/therap3.jpg" dark=true%}
 
 ## Therapeutics
 <b>The Chen lab is applying what has been learnt from the genetics to develop novel therapeutics treating human retinal degenerative diseases.</b>
@@ -50,19 +50,6 @@ We are pursuing multiple strategies in parallel to treat human retinal degenerat
 
 As the central nervous system (CNS) has little capacity for spontaneous regeneration, repair, or healing in human. severe damage in the CNS, due either to injury or neural degenerative disease, leads to permanent incapacity in patients who often require lifelong assistance.  It has been observed that some species, such as fish and birds, can regrow neural cells after retinal injury and restore visual function.  We are developing novel approach to active the intrinsic regeneration capability that is lost in humans that would lead to controlled regeneration of the retina tissue upon treatment.
 
-{%
-  include gallery.html
-
-  image1="images/therap1.jpg"
-  tooltip1=""
-
-  image2="images/therap2.jpg"
-  tooltip2=""
-
-  image3="images/therap3.jpg"
-  tooltip3=""
-%}
-{:.center}
 
 {% include section.html %}
 
