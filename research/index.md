@@ -13,7 +13,7 @@ We pursue the goals in the following areas:
 - Develop novel therapeutics, including gene therapy, genome editing, and neural regeneration, for treating the diseases.
 
 
-{% include section.html %}
+{% include section.html background="images/organoid1.jpg" dark=true%}
 
 ## Genetics of Disease
 <b>Genetics plays important role in human visual disorders that affect more than 30 million people in the United States alone.  The Chen lab aims at characterizing the genetic factors underlying the neural degenerative diseases in the human visual system, including both the inherited to age related retinal degenerative diseases.  A combination of next generation sequencing, single cell omics, patient derived iPSC and retinal organoid, mice and non human primate models, and machine learning and deep learning technologies are used.</b>
