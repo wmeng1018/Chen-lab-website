@@ -8,7 +8,7 @@ aliases:
   - J. Lu
   - J Lu
 links:
-  email: xinye.qian@bcm.edu
+  email: jiaxiong.lu@bcm.edu
 ---
 
-I received Bachelor’s and Masters’ degree from Xinjiang University, China. I joined Rui’s lab since 2019. Using single-cell CRISPR genetic screenings, my projects aim to identify of novel IRD disease-causing genes and define IRD gene functions by looking at the transcriptome profiling.
+Jiaxiong received his Bachelor’s and Masters’ degree from Xinjiang University, China. He joined Rui’s lab since 2019. Using single-cell CRISPR genetic screenings, his projects aim to identify of novel IRD disease-causing genes and define IRD gene functions by looking at the transcriptome profiling.
