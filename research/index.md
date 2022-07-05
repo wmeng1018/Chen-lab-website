@@ -42,7 +42,7 @@ The rapidly developing single cell omics technology are revolutionizing many div
 
 %}
 {:.center}
-{% include section.html background="images/therap3.jpg" dark=true%}
+{% include section.html background="images/therap1.png" dark=true%}
 
 ## Therapeutics
 <b>The Chen lab is applying what has been learnt from the genetics to develop novel therapeutics treating human retinal degenerative diseases.</b>
