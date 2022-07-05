@@ -37,7 +37,8 @@ The rapidly developing single cell omics technology are revolutionizing many div
   tooltip1="Single Cell Omics"
 
   image2="images/SCO2.png"
-  tooltip2="workflow chart"
+  link2="https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7"
+  tooltip2="The retina is the innermost tissue of the eyes of human and most other vertebrates. It receives the information of the visual images like the film of a camera and then translates the images into neural signals. As the neural signals get transduced to and processed by the brain, the visual perception is created. Different cell types in the retina functions in various ways to accomplish the whole procedure. In the human retina, the major cell types could be further classified into subtypes based on their morphology, physiology features or functions, and molecular markers. To date, it is estimated that there are over 70 cell types in the human retina according to a previous primate study. Reliable classification of those neurons is required to manage the complexity of such level. Single-nuclei RNA-seq were carried out to profile well-characterized healthy human retina from six individual donors using the 10x Genomics technologies. Each donor retina was dissected into three geographic regions: the fovea, macula, and peripheral retina and flash frozen afterwards. A fractionation protocol was developed to enrich nuclei from rare neuron cell types, including bipolar cells, amacrine cells, and retinal ganglion cells. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina."
 
 %}
 {:.center}
