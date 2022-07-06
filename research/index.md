@@ -77,13 +77,15 @@ Our work is made possible by funding from several organizations.
   link3="https://www.fightingblindness.org/"
   tooltip3="Foundation Fighting Blindness"
 
-  image4="images/cprit.png"
-  link4="https://www.cprit.state.tx.us/"
-  tooltip4="Cancer Prevention and Research Institute of Texas"
+  image4="images/retina-research.png"
+  link4="https://retinaresearchfnd.org/"
+  tooltip4="Retina Research Foundation"
+  
+  image5="images/cprit.png"
+  link5="https://www.cprit.state.tx.us/"
+  tooltip5="Cancer Prevention and Research Institute of Texas"
 
-  image6="images/retina-research.png"
-  link6="https://retinaresearchfnd.org/"
-  tooltip6="Retina Research Foundation"
+
 
 %}
 {:.center}
