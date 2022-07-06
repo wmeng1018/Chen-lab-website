@@ -21,6 +21,7 @@ We pursue the goals in the following areas:
 Inherited retinal degenerations (IRDs) are a collection of severe retina diseases following Mendelian inheritance model. Collectively, about 1 in 2000 people is affected by IRD. Over the last decade, our group has recruited over 7,000 patients with IRDs across the world. A combination of next generation sequencing (NGS) based panel, whole exome, and whole genome sequencing has been conducted. These efforts have led to accurate molecular diagnosis of about 85% of the patients, resulting in the discovered of 15 new IRD associated genes. Continued investigation of underlying genetics of the remaining 1,000 unsolved IRD patients provides excellent opportunities for novel disease gene and mutation discovery.
 
 We also extended our study from Mendelian to complex diseases, such as Glaucoma and age-related macular degeneration (AMD), which affect a large portion of population over 65-year-old. We are taking a combination of genomic sequencing, single cell omics, and high through put functional assay to identify causal gene and genetic variants underlying the risk of these conditions.
+<br><br>
 
 
 {% include section.html %}
@@ -50,6 +51,7 @@ The rapidly developing single cell omics technology are revolutionizing many div
 We are pursuing multiple strategies in parallel to treat human retinal degenerative diseases.  For IRDs with defined genetic mutations, the most straightforward treatment is to restore the wild-type function of the mutated gene.  In addition to gene augment therapy, we are developing novel therapy with genome editing approach, including base editing, and prime editing.
 
 As the central nervous system (CNS) has little capacity for spontaneous regeneration, repair, or healing in human. severe damage in the CNS, due either to injury or neural degenerative disease, leads to permanent incapacity in patients who often require lifelong assistance.  It has been observed that some species, such as fish and birds, can regrow neural cells after retinal injury and restore visual function.  We are developing novel approach to active the intrinsic regeneration capability that is lost in humans that would lead to controlled regeneration of the retina tissue upon treatment.
+<br><br>
 
 
 {% include section.html %}
