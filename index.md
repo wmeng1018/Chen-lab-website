@@ -81,6 +81,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% capture text %}
 We are a team of enthusiastic researchers and we strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+
 {%
   include link.html
   link="team"
