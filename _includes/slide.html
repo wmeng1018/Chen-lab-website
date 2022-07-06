@@ -39,47 +39,6 @@
 	display: inline-block;
 	transform: translate(-50%, -5px);
 }
-.hcg-slide-prev, .hcg-slide-next {
-	cursor: pointer;
-	position: absolute;
-	top: 50%;
-	width: auto;
-	padding: 16px;
-	margin-top: -22px;
-	color: #fff;
-	font-weight: bold;
-	font-size: 18px;
-	transition: 0.6s ease;
-	border-radius: 0 3px 3px 0;
-	text-decoration: none;
-}
-.hcg-slide-next {
-	right: 0;
-	border-radius: 3px 0 0 3px;
-}
-.hcg-slide-prev {
-	left: 0;
-	border-radius: 0 3px 3px 0;
-}
-.hcg-slide-prev:hover, .hcg-slide-next:hover {
-	background-color: #000c;
-}
-.hcg-slide-dot-control {
-	margin-top: 10px;
-	text-align: center;
-}
-.hcg-slide-dot {
-	cursor: pointer;
-	height: 13px;
-	width: 13px;
-	margin: 0 2px;
-	background-color: #bbb;
-	border-radius: 50%;
-	display: inline-block;
-}
-.hcg-slide-dot.dot-active {
-	background-color: #717171;
-}
 .hcg-slide-number {
 	color: #ffffff;
 	font-size: 12px;
@@ -112,7 +71,6 @@
 </style>
 
 
-
 <div id="hcg-slider-1" class="hcg-slider">
 <div class="hcg-slide-container">
 	<div class="hcg-slider-body">
@@ -122,12 +80,8 @@
 			<span class="hcg-slide-text">image 1</span>
 		</a>
 	</div>
-	<a class="hcg-slide-prev" href="#">❮</a>
-	<a class="hcg-slide-next" href="#">❯</a>
 </div>
-<div class="hcg-slide-dot-control"></div>
 </div>
-
 
 
 
@@ -136,10 +90,10 @@
 //If you want to include more images, add the link name and URL of the image in the array list below.
 	let images_list = [
 		{"url":"images/banner.jpg","name":"image 1","link":""},
-		{"url":"https://www.html-code-generator.com/images/slider/2.png","name":"image 2","link":""},
-		{"url":"https://www.html-code-generator.com/images/slider/3.png","name":"image 3","link":""},
-		{"url":"https://www.html-code-generator.com/images/slider/4.png","name":"image 4","link":""},
-		{"url":"https://www.html-code-generator.com/images/slider/5.png","name":"image 5","link":""}
+		{"url":"images/WT.png","name":"image 2","link":""},
+		{"url":"images/SCO","name":"image 3","link":""},
+		{"url":"images/WT.png","name":"image 4","link":""},
+		{"url":"images/banner.jpg","name":"image 5","link":""}
 	];
 
 	let slider_id = document.querySelector("#hcg-slider-1");
@@ -155,18 +109,11 @@
 						'<img src="'+images_list[i].url+'" alt="'+images_list[i].name+'">'+
 						'<span class="hcg-slide-text">'+images_list[i].name+'</span>'+
 					 '</a>';
-		dots_div += '<span class="hcg-slide-dot'+(i === 0 ? ' dot-active':'')+'" data-id="'+i+'"></span>';
 	}
 	slider_id.querySelector(".hcg-slider-body").innerHTML = images_div;
-	slider_id.querySelector(".hcg-slide-dot-control").innerHTML = dots_div;
-
 	let slide_index = 0;
 
 	let images = slider_id.querySelectorAll(".hcg-slides");
-	let dots = slider_id.querySelectorAll(".hcg-slide-dot");
-	let prev_button = slider_id.querySelector(".hcg-slide-prev");
-	let next_button = slider_id.querySelector(".hcg-slide-next");
-
 	function showSlides() {
 		if (slide_index > images.length-1) {
 			slide_index = 0;
@@ -176,33 +123,16 @@
 		}
 		for (let i = 0; i < images.length; i++) {
 			images[i].style.display = "none";
-			dots[i].classList.remove("dot-active");
 			if (i == slide_index) {
 				images[i].style.display = "block";
-				dots[i].classList.add("dot-active");
 			}
 		}
 	}
 
-	prev_button.addEventListener("click", function(event) {
-		event.preventDefault();
-		slide_index--;
-		showSlides();
-	}, false);
-
-	next_button.addEventListener("click", function(event){
-		event.preventDefault();
+	setInterval(function(){
 		slide_index++;
 		showSlides();
-	}, false);
+	}, 2000);
 
-	function dot_click(event) {
-		slide_index = event.target.dataset.id;
-		showSlides();
-	}
-
-	for (let i = 0; i < dots.length; i++) {
-		dots[i].addEventListener("click", dot_click, false);
-	}
 })();
 </script>
