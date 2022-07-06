@@ -17,7 +17,7 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
   link1="research/#genetics-of-disease"
   tooltip1="Genetics of Disease"
 
-  image2="images/SCO3.png"
+  image2="images/SCO1.gif"
   link2="research/#single-cell-omics"
   tooltip2="Single Cell Omics"
 
