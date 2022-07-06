@@ -21,7 +21,7 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
   link2="research/#single-cell-omics"
   tooltip2="Single Cell Omics"
 
-  image3="images/therap2.jpg"
+  image3="images/therap1.jpg"
   link3="research/#therapeutics"
   tooltip3="Therapeutics"
 
