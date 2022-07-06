@@ -31,7 +31,7 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
 
 {% include slide.html %}
 
-{% include section.html background="images/back.webp" %}
+{% include section.html background="images/back.jpeg" %}
 
 # Highlights
 
