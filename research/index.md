@@ -69,21 +69,21 @@ Our work is made possible by funding from several organizations.
   link1="https://chanzuckerberg.com/"
   tooltip1="Chan Zuckerberg Initiative"
 
-  image2="images/fighting-blindness.png"
-  link2="https://www.fightingblindness.org/"
-  tooltip2="Foundation Fighting Blindness"
+  image2="images/national-eye-institute.png"
+  link2="https://www.nei.nih.gov/"
+  tooltip2="National Eye Institute"
+  
+  image3="images/fighting-blindness.png"
+  link3="https://www.fightingblindness.org/"
+  tooltip3="Foundation Fighting Blindness"
 
-  image3="images/cprit.png"
-  link3="https://www.cprit.state.tx.us/"
-  tooltip3="Cancer Prevention and Research Institute of Texas"
+  image4="images/cprit.png"
+  link4="https://www.cprit.state.tx.us/"
+  tooltip4="Cancer Prevention and Research Institute of Texas"
 
-  image4="images/national-eye-institute.png"
-  link4="https://www.nei.nih.gov/"
-  tooltip4="National Eye Institute"
-
-  image5="images/retina-research.png"
-  link5="https://retinaresearchfnd.org/"
-  tooltip5="Retina Research Foundation"
+  image6="images/retina-research.png"
+  link6="https://retinaresearchfnd.org/"
+  tooltip6="Retina Research Foundation"
 
 %}
 {:.center}
