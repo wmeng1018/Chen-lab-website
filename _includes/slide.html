@@ -105,7 +105,9 @@
 		</a>
 	</div>
 </div>
+<div class="hcg-slide-dot-control"></div>
 </div>
+
 
 
 
@@ -132,11 +134,15 @@
 						'<img src="'+images_list[i].url+'" alt="'+images_list[i].name+'">'+
 						'<span class="hcg-slide-text">'+images_list[i].name+'</span>'+
 					 '</a>';
+		dots_div += '<span class="hcg-slide-dot'+(i === 0 ? ' dot-active':'')+'" data-id="'+i+'"></span>';
 	}
 	slider_id.querySelector(".hcg-slider-body").innerHTML = images_div;
+	slider_id.querySelector(".hcg-slide-dot-control").innerHTML = dots_div;
+
 	let slide_index = 0;
 
 	let images = slider_id.querySelectorAll(".hcg-slides");
+	let dots = slider_id.querySelectorAll(".hcg-slide-dot");
 	function showSlides() {
 		if (slide_index > images.length-1) {
 			slide_index = 0;
@@ -146,12 +152,22 @@
 		}
 		for (let i = 0; i < images.length; i++) {
 			images[i].style.display = "none";
+			dots[i].classList.remove("dot-active");
 			if (i == slide_index) {
 				images[i].style.display = "block";
+				dots[i].classList.add("dot-active");
 			}
 		}
 	}
 
+	function dot_click(event) {
+		slide_index = event.target.dataset.id;
+		showSlides();
+	}
+
+	for (let i = 0; i < dots.length; i++) {
+		dots[i].addEventListener("click", dot_click, false);
+	}
 	setInterval(function(){
 		slide_index++;
 		showSlides();
