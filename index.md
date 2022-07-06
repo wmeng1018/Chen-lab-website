@@ -36,11 +36,11 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
 # Highlights
 
 {% capture text %}
-The Chen lab uses innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+We use innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
 
 {%
   include link.html
-  link="research"
+  link="publication"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -57,8 +57,8 @@ The Chen lab uses innovative genetics and genomics, single cell omics, computati
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We believe that anyone around the world should be able to use and extend our work. 
+We push to make software, tools, datasets, etc. that are freely available.
 
 {%
   include link.html
