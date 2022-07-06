@@ -72,7 +72,7 @@ We push to make software, tools, datasets, etc. that are freely available.
 
 {%
   include feature.html
-  image="images/SCO2.png"
+  image="images/resource.png"
   link="tools"
   title="Our Resources"
   flip=true
