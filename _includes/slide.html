@@ -1,7 +1,7 @@
 <style>
 #hcg-slider-1 .hcg-slide-container {
 	width: auto;
-	height: auto;
+	height: 250px;
 }
 .hcg-slider {
 	text-align: center;
@@ -39,6 +39,22 @@
 	display: inline-block;
 	transform: translate(-50%, -5px);
 }
+.hcg-slide-dot-control {
+	margin-top: 10px;
+	text-align: center;
+}
+.hcg-slide-dot {
+	cursor: pointer;
+	height: 13px;
+	width: 13px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+}
+.hcg-slide-dot.dot-active {
+	background-color: #717171;
+}
 .hcg-slide-number {
 	color: #ffffff;
 	font-size: 12px;
@@ -52,19 +68,27 @@
 /************CSS Animation***********/
 
 .animated { 
-	animation-name: fadeIn; 
+	animation-name: bounceInLeft; 
 	animation-duration: 1s;
 }
-@keyframes fadeIn {
+@keyframes bounceInLeft {
 	0% {
 		opacity: 0;
+		transform: translateX(-200px);
+	}
+	60% {
+		opacity: 1;
+		transform: translateX(30px);
+	}
+	80% {
+		transform: translateX(-10px);
 	}
 	100% {
-		opacity: 1;
+		transform: translateX(0);
 	}
 }
-.fadeIn {
-	animation-name: fadeIn;
+.bounceInLeft {
+	animation-name: bounceInLeft;
 }
 
 
