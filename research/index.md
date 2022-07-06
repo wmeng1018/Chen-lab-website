@@ -34,13 +34,15 @@ The rapidly developing single cell omics technology are revolutionizing many div
 {%
   include gallery.html
 
-  image1="images/SCO1.gif"
-  tooltip1="Single Cell Omics"
+  image1="images/SCO3.png"
+  link1="https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7"
+  tooltip1="The retina is the innermost tissue of the eyes of human and most other vertebrates. In the human retina, the major cell types could be further classified into subtypes based on their morphology, physiology features or functions, and molecular markers. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina."
 
-  image2="images/SCO3.png"
-  link2="https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7"
-  tooltip2="The retina is the innermost tissue of the eyes of human and most other vertebrates. In the human retina, the major cell types could be further classified into subtypes based on their morphology, physiology features or functions, and molecular markers. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina."
-
+  image2="images/SCO1.gif"
+  tooltip2="Single Cell Omics"
+  
+  image3="images/SCO1.gif"
+  tooltip3="Single Cell Omics"
 %}
 {:.center}
 {% include section.html background="images/therap1.png" dark=true%}
