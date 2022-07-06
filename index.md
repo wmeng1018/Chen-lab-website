@@ -63,7 +63,7 @@ We push to make software, tools, datasets, etc. that are freely available.
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Browse our tools and datasets"
   icon="fas fa-arrow-right"
   flip=true
 %}
