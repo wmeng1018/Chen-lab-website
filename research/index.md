@@ -54,7 +54,7 @@ As the central nervous system (CNS) has little capacity for spontaneous regenera
 <br><br>
 
 
-{% include section.html %}
+{% include section.html background="images/back.webp"%}
 
 
 #  <i class="fas fa-microscope"></i>Funding
