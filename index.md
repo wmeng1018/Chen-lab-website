@@ -36,7 +36,7 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
 # Highlights
 
 {% capture text %}
-We use innovative genetics and genomics, single cell omics, computational, and imaging tools to understand the connection between genetic variants and human diseases, using the visual system as the model.
+By using patient data, mice model, and retinal organoids, our research aims to identify, assess, and predict genetic variations which can lead to Mendelian and complex visual disorders.
 
 {%
   include link.html
