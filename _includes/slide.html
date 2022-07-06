@@ -1,7 +1,7 @@
 <style>
 #hcg-slider-1 .hcg-slide-container {
 	width: auto;
-	height: 250px;
+	height: auto;
 }
 .hcg-slider {
 	text-align: center;
@@ -38,32 +38,6 @@
 	background-color: rgba(255,255,255,0.30);
 	display: inline-block;
 	transform: translate(-50%, -5px);
-}
-.hcg-slide-dot-control {
-	margin-top: 10px;
-	text-align: center;
-}
-.hcg-slide-dot {
-	cursor: pointer;
-	height: 13px;
-	width: 13px;
-	margin: 0 2px;
-	background-color: #bbb;
-	border-radius: 50%;
-	display: inline-block;
-}
-.hcg-slide-dot.dot-active {
-	background-color: #717171;
-}
-.hcg-slide-number {
-	color: #ffffff;
-	font-size: 12px;
-	padding: 4px 7px;
-	position: absolute;
-	border-radius: 5px;
-	top: 5px;
-	left: 5px;
-	background-color: rgba(255,255,255,0.30);
 }
 /************CSS Animation***********/
 
@@ -110,6 +84,7 @@
 
 
 
+
 <script>
 (function(){
 //If you want to include more images, add the link name and URL of the image in the array list below.
@@ -129,19 +104,14 @@
 		// if no link without href="" tag
 		let href = (images_list[i].link == "" ? "":' href="'+images_list[i].link+'"');
 		images_div += '<a'+href+' class="hcg-slides animated"'+(i === 0 ? ' style="display:block"':'')+'>'+
-						'<span class="hcg-slide-number">'+(i+1)+'/'+images_list.length+'</span>'+
 						'<img src="'+images_list[i].url+'" alt="'+images_list[i].name+'">'+
 						'<span class="hcg-slide-text">'+images_list[i].name+'</span>'+
 					 '</a>';
-		dots_div += '<span class="hcg-slide-dot'+(i === 0 ? ' dot-active':'')+'" data-id="'+i+'"></span>';
 	}
 	slider_id.querySelector(".hcg-slider-body").innerHTML = images_div;
-	slider_id.querySelector(".hcg-slide-dot-control").innerHTML = dots_div;
-
 	let slide_index = 0;
 
 	let images = slider_id.querySelectorAll(".hcg-slides");
-	let dots = slider_id.querySelectorAll(".hcg-slide-dot");
 	function showSlides() {
 		if (slide_index > images.length-1) {
 			slide_index = 0;
@@ -151,22 +121,12 @@
 		}
 		for (let i = 0; i < images.length; i++) {
 			images[i].style.display = "none";
-			dots[i].classList.remove("dot-active");
 			if (i == slide_index) {
 				images[i].style.display = "block";
-				dots[i].classList.add("dot-active");
 			}
 		}
 	}
 
-	function dot_click(event) {
-		slide_index = event.target.dataset.id;
-		showSlides();
-	}
-
-	for (let i = 0; i < dots.length; i++) {
-		dots[i].addEventListener("click", dot_click, false);
-	}
 	setInterval(function(){
 		slide_index++;
 		showSlides();
