@@ -42,7 +42,7 @@ The rapidly developing single cell omics technology are revolutionizing many div
   tooltip2="3D UMAP embedding of the human fetal Macula and peripheral retina, with individual cells colored by annotated cell types."
   
   image3="images/SCO4.png"
-  tooltip3="Single Cell Omics"
+  tooltip3="MERFISH"
 %}
 {:.center}
 {% include section.html background="images/therap1.png" dark=true%}
