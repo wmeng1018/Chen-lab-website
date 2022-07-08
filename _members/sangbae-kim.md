@@ -1,8 +1,8 @@
 ---
 name: Sangbae Kim
 image: images/member/sangbae.jpeg
-description: Postdoctoral Researcher
-role: postdoc
+description: Instructor
+role: faculty
 aliases:
   - Sangbae Kim
   - S Kim
