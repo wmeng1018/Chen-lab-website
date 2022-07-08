@@ -28,6 +28,7 @@ Our lab uses innovative genetics and genomics, single cell omics, computational,
 %}
 {:.center}
 {% include section.html full=true dark=true%}
+## Our own genomes carry the story of evolution, written in DNA, the language of molecular genetics, and the narrative is unmistakable.
 {% include section.html full=true %}
 
 {% include slide.html %}
