@@ -2,9 +2,9 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
-professor:
+faculty:
   icon: fas fa-microscope
-  text: Professor
+  text: Faculty
   
 postdoc:
   icon: fas fa-glasses
