@@ -1,7 +1,7 @@
 ---
 name: Karen Zheng
 image: images/member/karen.jpeg
-description: Student Helper
+description: Undergraduate Student
 role: undergrad
 aliases:
   - Karen Zheng
