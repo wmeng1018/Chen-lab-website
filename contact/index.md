@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Molecular and Human Genetics](https://www.bcm.edu/departments/molecular-and-human-genetics), at the school of [Baylor College of Medicine](https://www.bcm.edu/).
-We are located on the 8th floor of the Cullen Building.
+We are located on the 8th floor of the Taub Building.
 
 {:.center}
 
