@@ -1,7 +1,7 @@
 ---
 name: Jiaxiong Lu
 image: images/member/jiaxiong.jpg
-description: Research Assistant
+description: Graduate Student
 role: phd
 aliases:
   - Jiaxiong Lu
