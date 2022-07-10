@@ -71,9 +71,9 @@ Our work is made possible by funding from several organizations.
   link1="https://chanzuckerberg.com/"
   tooltip1="Chan Zuckerberg Initiative"
 
-  image2="images/national-eye-institute.png"
-  link2="https://www.nei.nih.gov/"
-  tooltip2="National Eye Institute"
+  image2="images/nih.jpeg"
+  link2="https://www.nih.gov/"
+  tooltip2="National Institutes of Health"
   
   image3="images/fighting-blindness.png"
   link3="https://www.fightingblindness.org/"
