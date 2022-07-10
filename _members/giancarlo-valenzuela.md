@@ -1,7 +1,7 @@
 ---
 name: Giancarlo Valenzuela
 image: images/member/giancarlo.jpeg
-description: Student Helper
+description: Undergraduate Student
 role: undergrad
 aliases:
   - Giancarlo Valenzuela
