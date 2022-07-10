@@ -1,7 +1,7 @@
 ---
 name: Joseph Quinlan
 image: images/member/Joseph.jpeg
-description: Student Helper
+description: Undergraduate Student
 role: undergrad
 aliases:
   - J. Quinlan
