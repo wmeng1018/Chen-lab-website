@@ -1,7 +1,7 @@
 ---
 name: Maggie Bao
 image: images/member/maggie.jpeg
-description: Student Helper
+description: Undergraduate Student
 role: undergrad
 aliases:
   - M. Bao
