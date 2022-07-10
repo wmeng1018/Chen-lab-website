@@ -1,7 +1,7 @@
 ---
 name: Alice Tian
 image: images/member/alice.jpeg
-description: Student Helper
+description: Undergraduate Student
 role: undergrad
 aliases:
   - A. Tian
