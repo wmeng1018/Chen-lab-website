@@ -1,7 +1,7 @@
 ---
 name: Zhen Zuo
 image: images/member/zhen.jpeg
-description: Research Assistant
+description: Graduate Student
 role: phd
 aliases:
   - Zhen Zuo
