@@ -26,7 +26,7 @@ nav:
   icon=""
   text="More on PubMed"
   tooltip=""
-  link="https://pubmed.ncbi.nlm.nih.gov/?term=rui%20chen"
+  link="https://pubmed.ncbi.nlm.nih.gov/?term=rui+chen+and+Baylor&sort=date&size=100"
 %}
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 {%
