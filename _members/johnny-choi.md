@@ -1,7 +1,7 @@
 ---
 name: Johnny (Jongsu) Choi
 image: images/member/johnny.jpeg
-description: Research Assistant
+description: Graduate Student
 role: phd
 aliases:
   - Johnny Choi
