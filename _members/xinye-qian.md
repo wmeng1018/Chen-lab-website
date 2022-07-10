@@ -1,7 +1,7 @@
 ---
 name: Xinye Qian
 image: images/member/xinye.jpeg
-description: Research Assistant
+description: Graduate Student
 role: phd
 aliases:
   - Xinye Qian
