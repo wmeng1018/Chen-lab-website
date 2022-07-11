@@ -10,24 +10,28 @@
     - Retina
     - Cell Atlas
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: bindSC
+  subtitle: Bi-order INtegration of multi-omics Data from Single Cell sequencing technologies
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/bindSC.jpg
+  link: https://github.com/KChen-lab/bindSC
+  description: bindSC is an R package for single cell multi-omic integration analysis. It is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
+  repo: 
   tags:
-    - resource
+    - Software
+    - Bi-order
+    - Integration
 
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Macaque Genome Database
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/macaque.jpg
+  link: http://mhgcp-t58.grid.bcm.edu/macaque/index.html
+  description: The Macaque Genome Database is a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a wide variety of large-scale sequencing projects of Macaque. You need to access under BCM network.
+  repo: 
   tags:
-    - software
+    - Database
+    - Macaque
+    - Variantions
 
