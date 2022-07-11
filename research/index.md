@@ -71,9 +71,9 @@ Our work is made possible by funding from several organizations.
   link1="https://chanzuckerberg.com/"
   tooltip1="Chan Zuckerberg Initiative"
 
-  image2="images/nih.jpeg"
-  link2="https://www.nih.gov/"
-  tooltip2="National Institutes of Health"
+  image5="images/nih.jpeg"
+  link5="https://www.nih.gov/"
+  tooltip5="National Institutes of Health"
   
   image3="images/fighting-blindness.png"
   link3="https://www.fightingblindness.org/"
@@ -83,9 +83,9 @@ Our work is made possible by funding from several organizations.
   link4="https://retinaresearchfnd.org/"
   tooltip4="Retina Research Foundation"
   
-  image5="images/cprit.png"
-  link5="https://www.cprit.state.tx.us/"
-  tooltip5="Cancer Prevention and Research Institute of Texas"
+  image2="images/cprit.png"
+  link2="https://www.cprit.state.tx.us/"
+  tooltip2="Cancer Prevention and Research Institute of Texas"
 
 
 
