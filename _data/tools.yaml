@@ -10,19 +10,6 @@
     - Retina
     - Cell Atlas
 
-- title: bindSC
-  subtitle: Bi-order INtegration of multi-omics Data from Single Cell sequencing technologies
-  group: featured
-  image: images/bindSC.jpg
-  link: https://github.com/KChen-lab/bindSC
-  description: bindSC is an R package for single cell multi-omic integration analysis. It is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
-  repo: 
-  tags:
-    - Software
-    - Bi-order
-    - Integration
-
-
 - title: Macaque Genome Database
   subtitle: 
   group: featured
@@ -35,3 +22,14 @@
     - Macaque
     - Variantions
 
+- title: bindSC
+  subtitle: Bi-order INtegration of multi-omics Data from Single Cell sequencing technologies
+  group: featured
+  image: images/bindSC.jpg
+  link: https://github.com/KChen-lab/bindSC
+  description: bindSC is an R package for single cell multi-omic integration analysis. It is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
+  repo: 
+  tags:
+    - Software
+    - Bi-order
+    - Integration
