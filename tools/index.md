@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Resources and Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our software, tools, datasets, etc. are open-source, and free for anyone around the world to use and modify. We strive to make resources that are high quality in every aspect: cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
 
 {% include search-info.html %}
 
