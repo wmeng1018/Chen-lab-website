@@ -20,10 +20,12 @@
   tags:
     - Database
     - Macaque
+    - Genome
     - Variantions
+    - Allele Frequence
 
 - title: bindSC
-  subtitle: Bi-order INtegration of multi-omics Data from Single Cell sequencing technologies
+  subtitle: Bi-order Integration of multi-omics Data from Single Cell sequencing technologies
   group: featured
   image: images/bindSC.jpg
   link: https://github.com/KChen-lab/bindSC
