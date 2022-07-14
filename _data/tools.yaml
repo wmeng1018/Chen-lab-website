@@ -10,6 +10,19 @@
     - Retina
     - Cell Atlas
 
+- title: GRIPT
+  subtitle: A novel case-control analysis method for Mendelian disease gene discovery
+  group: genetics
+  image: images/gript.jpg
+  link: https://github.com/fe4960/GRIPT_BCM
+  description: A novel method, the Gene Ranking, Identification and Prediction Tool (GRIPT), for performing case-control analysis of NGS data. Analyses of simulated and real datasets show that GRIPT is well-powered for disease gene discovery, especially for diseases with high locus heterogeneity.
+  repo:
+  tags:
+    - Software
+    - Gene Identification
+    - Gene Discovery
+    - NGS
+
 - title: Macaque Genome Database
   subtitle: 
   group: genetics
@@ -24,6 +37,19 @@
     - Variantions
     - Allele Frequency
 
+- title: Binomial Test
+  subtitle: A novel statistical method for interpreting the pathogenicity of rare variants
+  group: genetics
+  image: images/binomial.jpg
+  link: https://github.com/fe4960/Binomial_test
+  description: A novel statistical test by combining sequencing data from a patient cohort with a normal control population database. By comparing the expected and observed allele frequency in the patient cohort, variants that are likely benign can be identified.
+  repo:
+  tags:
+    - Software
+    - Variant Validation
+    - Allele Frequency
+    - NGS
+
 - title: bindSC
   subtitle: Bi-order Integration of multi-omics Data from Single Cell sequencing technologies
   group: single cell
@@ -36,15 +62,3 @@
     - Bi-order
     - Integration
 
-- title: GRIPT
-  subtitle: A novel case-control analysis method for Mendelian disease gene discovery
-  group: genetics
-  image: images/gript.jpg
-  link: https://github.com/fe4960/GRIPT_BCM
-  description: A novel method, the Gene Ranking, Identification and Prediction Tool (GRIPT), for performing case-control analysis of NGS data. Analyses of simulated and real datasets show that GRIPT is well-powered for disease gene discovery, especially for diseases with high locus heterogeneity.
-  repo:
-  tags:
-    - Software
-    - Gene Identification
-    - Gene Discovery
-    - NGS
