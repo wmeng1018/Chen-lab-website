@@ -38,11 +38,11 @@ The rapidly developing single cell omics technology are revolutionizing many div
   link1="https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7"
   tooltip1="The retina is the innermost tissue of the eyes of human and most other vertebrates. In the human retina, the major cell types could be further classified into subtypes based on their morphology, physiology features or functions, and molecular markers. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina."
 
-  image3="images/SCO1.gif"
-  tooltip3="3D UMAP embedding of the human fetal Macula and peripheral retina, with individual cells colored by annotated cell types."
+  image2="images/SCO1.gif"
+  tooltip2="3D UMAP embedding of the human fetal Macula and peripheral retina, with individual cells colored by annotated cell types."
   
-  image2="images/SCO4.png"
-  tooltip2="Spatial organization of mouse retina in MERFISH experiment."
+  image3="images/SCO4.png"
+  tooltip3="Spatial organization of mouse retina in MERFISH experiment."
 %}
 {:.center}
 {% include section.html background="images/therap1.png" dark=true%}
