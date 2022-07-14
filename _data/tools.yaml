@@ -15,7 +15,7 @@
   group: genetics
   image: images/gript.jpg
   link: https://github.com/fe4960/GRIPT_BCM
-  description: A novel method, the Gene Ranking, Identification and Prediction Tool (GRIPT), for performing case-control analysis of NGS data. Analyses of simulated and real datasets show that GRIPT is well-powered for disease gene discovery, especially for diseases with high locus heterogeneity.
+  description: A novel method, the Gene Ranking, Identification and Prediction Tool (GRIPT), for performing case-control analysis of NGS data which is well-powered for disease gene discovery, especially for diseases with high locus heterogeneity.
   repo:
   tags:
     - Software
