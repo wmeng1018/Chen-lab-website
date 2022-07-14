@@ -13,10 +13,12 @@ Our software, tools, datasets, etc. are open-source, and free for anyone around 
 
 {% include section.html %}
 
+## Genetics
+
+{% include list.html component="card" data="tools" filters="group: genetics" %}
+
 ## Single Cell
 
 {% include list.html component="card" data="tools" filters="group: single cell" %}
 
-## Genetics
 
-{% include list.html component="card" data="tools" filters="group: genetics" %}
