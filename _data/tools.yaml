@@ -1,6 +1,6 @@
 - title: Single-cell transcriptomic atlas for adult human retina
   subtitle:
-  group: featured
+  group: single cell
   image: images/SCO2.png
   link: https://cellxgene.cziscience.com/collections/af893e86-8e9f-41f1-a474-ef05359b1fb7
   description: A fractionation protocol was developed to enrich nuclei from rare neuron cell types, including bipolar cells, amacrine cells, and retinal ganglion cells. In total, over 60 cell types are identified in our dataset, making the currently most comprehensive single-cell profiling of adult human retina.
@@ -12,7 +12,7 @@
 
 - title: Macaque Genome Database
   subtitle: 
-  group: featured
+  group: genetics
   image: images/macaque.jpg
   link: http://mhgcp-t58.grid.bcm.edu/macaque/index.html
   description: The Macaque Genome Database is a coalition of investigators seeking to aggregate and harmonize exome sequencing data from a wide variety of large-scale sequencing projects of Macaque. You need to access under BCM network.
@@ -26,7 +26,7 @@
 
 - title: bindSC
   subtitle: Bi-order Integration of multi-omics Data from Single Cell sequencing technologies
-  group: featured
+  group: single cell
   image: images/bindSC.jpg
   link: https://github.com/KChen-lab/bindSC
   description: bindSC is an R package for single cell multi-omic integration analysis. It is developed to address the challenge of single-cell multi-omic data integration that consists of unpaired cells measured with unmatched features across modalities.
@@ -35,3 +35,16 @@
     - Software
     - Bi-order
     - Integration
+
+- title: GRIPT
+  subtitle: A novel case-control analysis method for Mendelian disease gene discovery
+  group: genetics
+  image: images/gript.jpg
+  link: https://github.com/fe4960/GRIPT_BCM
+  description: A novel method, the Gene Ranking, Identification and Prediction Tool (GRIPT), for performing case-control analysis of NGS data. Analyses of simulated and real datasets show that GRIPT is well-powered for disease gene discovery, especially for diseases with high locus heterogeneity.
+  repo:
+  tags:
+    - Software
+    - Gene Identification
+    - Gene Discovery
+    - NGS
