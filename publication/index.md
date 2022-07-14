@@ -8,7 +8,7 @@ nav:
 {% include section.html dark=true%}
 # <i class="fas fa-book-open fa-lg"></i>Publications
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/organoid1.jpg" dark=true%}
 
 {% include search-box.html %}
 ###### Search by keywords, authors and/or anything of interest. Examples: Single Cell Omics, Rui Chen, 2021 and etc.
